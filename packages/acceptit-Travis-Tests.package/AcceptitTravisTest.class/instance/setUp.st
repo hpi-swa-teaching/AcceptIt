@@ -2,4 +2,4 @@ running
 setUp
 
 	super setUp.
-	self test: TravisTest new.
+	self tester: TravisTest new.
