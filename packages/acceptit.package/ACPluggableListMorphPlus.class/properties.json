@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"getListItemColorSelector" ],
+	"name" : "ACPluggableListMorphPlus",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorphPlus",
+	"type" : "normal" }

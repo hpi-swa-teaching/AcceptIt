@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Travis-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"test" ],
+	"name" : "AcceptitTravisTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

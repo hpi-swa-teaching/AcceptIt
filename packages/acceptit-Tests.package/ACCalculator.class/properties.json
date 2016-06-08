@@ -1,0 +1,16 @@
+{
+	"category" : "acceptit-Tests-Calculator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"first",
+		"second",
+		"result" ],
+	"name" : "ACCalculator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

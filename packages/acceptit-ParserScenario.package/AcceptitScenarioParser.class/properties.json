@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-ParserScenario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tempString" ],
+	"name" : "AcceptitScenarioParser",
+	"pools" : [
+		 ],
+	"super" : "AcceptitParser",
+	"type" : "normal" }

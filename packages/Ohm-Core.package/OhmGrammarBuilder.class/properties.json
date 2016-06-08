@@ -1,0 +1,15 @@
+{
+	"category" : "Ohm-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startRule",
+		"grammar" ],
+	"name" : "OhmGrammarBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

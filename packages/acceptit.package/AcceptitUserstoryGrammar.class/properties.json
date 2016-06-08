@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-ParserUserstory",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AcceptitUserstoryGrammar",
+	"pools" : [
+		 ],
+	"super" : "OhmGrammarSmalltalkProxy",
+	"type" : "normal" }

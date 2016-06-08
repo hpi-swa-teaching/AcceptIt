@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"klassName" ],
+	"name" : "ACCompilerUserStoryTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

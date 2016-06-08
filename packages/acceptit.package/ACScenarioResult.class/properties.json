@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stepStatus" ],
+	"name" : "ACScenarioResult",
+	"pools" : [
+		 ],
+	"super" : "TestResult",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+inScanLine
+	
+	^ inScanLine

@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AcceptitTranslator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

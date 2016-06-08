@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"annotatedRule" : "mp 6/7/2016 10:40",
+		"annotatedTree:" : "mp 6/7/2016 10:37",
+		"endOfLastToken" : "mp 5/31/2016 21:28",
+		"grammar" : "mp 6/7/2016 10:51",
+		"parseSelector:" : "mp 5/31/2016 21:28",
+		"parseTree:" : "mp 6/1/2016 00:28",
+		"rangesIn:classOrMetaClass:workspace:environment:" : "mp 5/31/2016 20:08",
+		"semantic" : "mp 5/31/2016 18:40",
+		"startRule" : "mp 5/31/2016 18:41",
+		"treeRule" : "mp 6/1/2016 00:23" } }

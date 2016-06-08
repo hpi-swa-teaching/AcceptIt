@@ -1,0 +1,15 @@
+{
+	"category" : "acceptit-ParserScenario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastRule",
+		"currentLine" ],
+	"name" : "AcceptitScenarioSemantic",
+	"pools" : [
+		 ],
+	"super" : "OhmSynthesizedAttribute",
+	"type" : "normal" }

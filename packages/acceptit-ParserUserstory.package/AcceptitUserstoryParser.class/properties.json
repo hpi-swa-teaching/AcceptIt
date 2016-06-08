@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-ParserUserstory",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AcceptitUserstoryParser",
+	"pools" : [
+		 ],
+	"super" : "AcceptitParser",
+	"type" : "normal" }
