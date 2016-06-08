@@ -1,0 +1,23 @@
+{
+	"category" : "acceptit-Core-Model",
+	"classinstvars" : [
+		"purpose",
+		"role",
+		"means",
+		"storyName",
+		"userStoryString" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stepLibraries",
+		"configuration",
+		"currentStep",
+		"stepsDone",
+		"skipSymbols",
+		"verbsMethodCache" ],
+	"name" : "ACUserStory",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

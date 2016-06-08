@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"method" ],
+	"name" : "AcceptitScenarioWrapper",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

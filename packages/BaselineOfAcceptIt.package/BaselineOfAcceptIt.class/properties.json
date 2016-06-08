@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAcceptIt",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAcceptIt",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
