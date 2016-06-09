@@ -1,0 +1,3 @@
+ohm-s
+grammar
+	^ AcceptitScenarioGrammar

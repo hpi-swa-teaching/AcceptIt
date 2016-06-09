@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACTestSuite",
+	"pools" : [
+		 ],
+	"super" : "TestSuite",
+	"type" : "normal" }

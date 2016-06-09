@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Tests-Calculator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACPlayfieldUserStory",
+	"pools" : [
+		 ],
+	"super" : "ACUserStory",
+	"type" : "normal" }

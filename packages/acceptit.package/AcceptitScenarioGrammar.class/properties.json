@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-ParserScenario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AcceptitScenarioGrammar",
+	"pools" : [
+		 ],
+	"super" : "OhmGrammarSmalltalkProxy",
+	"type" : "normal" }

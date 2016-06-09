@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scenario" ],
+	"name" : "ACLibrary",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

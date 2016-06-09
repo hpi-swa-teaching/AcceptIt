@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"compilerClass" : "mp 6/7/2016 12:20",
+		"newForScenario:" : "mp 6/7/2016 12:20",
+		"parserClass" : "mp 6/7/2016 12:20" },
+	"instance" : {
+		"calculator" : "mp 6/7/2016 17:34",
+		"calculator:" : "mp 6/7/2016 17:34",
+		"givenAIsaNumberArgs:" : "mp 6/7/2016 17:39",
+		"givenBIsaNumberArgs:" : "mp 6/7/2016 17:39",
+		"scenario" : "mp 6/7/2016 12:20",
+		"scenario:" : "mp 6/7/2016 12:20",
+		"setUp" : "mp 6/7/2016 17:38",
+		"thenExpectaResultArgs:" : "mp 6/7/2016 17:42",
+		"whenAddAAndBArgs:" : "mp 6/7/2016 17:40" } }

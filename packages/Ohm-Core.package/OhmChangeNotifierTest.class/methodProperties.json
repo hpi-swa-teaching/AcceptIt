@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "pre 5/6/2015 18:24",
+		"tearDown" : "pre 5/6/2015 18:25",
+		"testNotificationOnAddRule" : "pre 9/29/2015 14:38",
+		"testNotificationOnChangeRule" : "pre 9/29/2015 14:38",
+		"theTestNamespace" : "pre 5/6/2015 18:25" } }

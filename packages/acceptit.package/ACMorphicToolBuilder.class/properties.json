@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACMorphicToolBuilder",
+	"pools" : [
+		 ],
+	"super" : "MorphicToolBuilder",
+	"type" : "normal" }

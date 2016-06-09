@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"klassName" : "db 7/8/2010 15:28",
+		"klassName:" : "db 7/8/2010 15:28",
+		"removeTestClass:" : "db 7/8/2010 15:29",
+		"setUp" : "db 7/8/2010 15:19",
+		"tearDown" : "db 7/8/2010 15:20",
+		"testWithHaveAsString" : "topa 7/8/2010 15:07",
+		"testWithIAndHaveAsSelector" : "topa 7/8/2010 15:09",
+		"testWithIAndShouldAsSelector" : "db 7/21/2010 01:22" } }

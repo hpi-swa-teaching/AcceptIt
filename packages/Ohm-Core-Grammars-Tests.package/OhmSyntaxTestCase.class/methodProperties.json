@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"shouldParse:" : "pre 10/7/2015 15:36",
+		"shouldParse:to:" : "pre 10/7/2015 15:36",
+		"shouldParseAll:" : "pre 7/27/2015 16:41",
+		"shouldntParse:" : "pre 10/7/2015 15:37",
+		"shouldntParseAny:" : "pre 7/27/2015 16:43" } }
