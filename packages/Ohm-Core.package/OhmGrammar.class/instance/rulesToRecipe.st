@@ -1,4 +1,0 @@
-as yet unclassified
-rulesToRecipe 
-
-	^ self ruleDeclarations inject: '' into: [:recipe :rule | recipe , Character cr , rule toRecipe ]

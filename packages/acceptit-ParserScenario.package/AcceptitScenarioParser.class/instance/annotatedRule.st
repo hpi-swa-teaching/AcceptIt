@@ -1,4 +1,0 @@
-ohm-s
-annotatedRule
-
-	^#annotatedTreeScenario

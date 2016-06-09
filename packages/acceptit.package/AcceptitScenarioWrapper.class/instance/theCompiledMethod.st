@@ -1,4 +1,0 @@
-debugging
-theCompiledMethod
-
-	^ method
