@@ -7,5 +7,5 @@ testScenarioMatch
 
 Given I have a web site
 When I go to the web site
-Then I see "Hello World"'.
+Then I see ''Hello World'''.
 	self should: [self match: scenario with: #fullScenario].

@@ -1,8 +1,7 @@
 as yet unclassified
 treeScenario:  aNode 
 withName: aName 
-andLinebreak: linebreak1 
-andLinebreak: linebreak2
+andLinebreaks: linebreaks
 andScenario: aScenario
 
 	|parseTree codeCollection|
@@ -10,8 +9,7 @@ andScenario: aScenario
 	parseTree := OrderedCollection new.
 	parseTree add: #scenario. 
 	parseTree add: (OrderedCollection new add: #title; add: (aName interval contents); yourself).
-	self value: linebreak1.
-	self value: linebreak2.
+	self value: linebreaks.
 	codeCollection := self value: aScenario. 
 	{#given. #when. #then} do: [ :tag|
 		|toAdd|
