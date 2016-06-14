@@ -4,9 +4,9 @@ baseline: spec
 	spec
 		for: #'common'
 		do: [
-				spec baseline: 'OhmS' with: [	spec repository: 'github://hpi-swa/ohm-s/packages' ].
+				spec baseline: 'Widgets' with: [	spec repository: 'github://hpi-swa/widgets:master/repository' ].
 			spec
-				package: 'acceptit-Core-Model' with: [ spec requires: #('OhmS') ];
+				package: 'acceptit-Core-Model';
 				package: 'acceptit-Travis-Tests' with: [ spec requires: #('default') ].
 			spec
 				group: 'default' with: #('acceptit-Core-Model');
