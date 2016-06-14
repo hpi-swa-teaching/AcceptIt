@@ -1,0 +1,4 @@
+helpers
+parserClassToTest
+
+	self subclassResponsibility
