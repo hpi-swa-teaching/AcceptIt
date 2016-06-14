@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"directClassWithVariablesSet" : "topa 6/3/2010 14:07",
+		"klassName" : "topa 6/3/2010 13:55",
+		"klassName:" : "topa 6/3/2010 13:55",
+		"parseTree" : "mp 6/2/2016 20:17",
+		"removeTestClass" : "topa 6/3/2010 14:08",
+		"setUp" : "topa 6/3/2010 13:57",
+		"tearDown" : "topa 6/3/2010 14:02",
+		"testUserStoryCompilation" : "mp 6/2/2016 20:02" } }

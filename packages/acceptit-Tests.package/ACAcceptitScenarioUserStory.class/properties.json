@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Tests-Acceptit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACAcceptitScenarioUserStory",
+	"pools" : [
+		 ],
+	"super" : "ACUserStory",
+	"type" : "normal" }

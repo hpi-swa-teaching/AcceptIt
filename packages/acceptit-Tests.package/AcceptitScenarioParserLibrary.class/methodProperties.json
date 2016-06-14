@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"compilerClass" : "mp 6/14/2016 12:17",
+		"newForScenario:" : "mp 6/14/2016 12:17",
+		"parserClass" : "mp 6/14/2016 12:17" },
+	"instance" : {
+		"givenMyScenarioTextIsaStringArgs:" : "mp 6/14/2016 12:38",
+		"parsingRule" : "mp 6/14/2016 12:19",
+		"parsingRule:" : "mp 6/14/2016 12:19",
+		"scenario" : "mp 6/14/2016 12:17",
+		"scenario:" : "mp 6/14/2016 12:17",
+		"scenarioText" : "mp 6/14/2016 12:19",
+		"scenarioText:" : "mp 6/14/2016 12:19",
+		"thenExpectaBooleanArgs:" : "mp 6/14/2016 12:38",
+		"whenMatchTheTextWithaRuleArgs:" : "mp 6/14/2016 12:38" } }
