@@ -1,4 +1,0 @@
-accessing
-toRecipe
-
-	self subclassResponsibility 
