@@ -6,9 +6,9 @@ baseline: spec
 		do: [
 				spec baseline: 'Ohm' with: [	spec repository: 'github://hpi-swa/ohm-s:master/packages' ].
 			spec
-				package: 'acceptit' with: [ spec requires: #('Ohm') ];
+				package: 'acceptit-Core-Model' with: [ spec requires: #('Ohm') ];
 				package: 'acceptit-Travis-Tests' with: [ spec requires: #('default') ].
 			spec
-				group: 'default' with: #('acceptit');
+				group: 'default' with: #('acceptit-Core-Model');
 				group: 'Tests' with: #('acceptit-Travis-Tests');
 				group: 'TravisCI' with: #('Tests') ]
