@@ -9,7 +9,7 @@ SmalltalkCISpec {
   ],
   #testing : {
     #coverage : {
-      #categories : [ 'AcceptIt' ]
+      #categories : [ 'acceptit' ]
     }
   }
 }
