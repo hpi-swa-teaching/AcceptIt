@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Travis-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACParserScenarioTest",
+	"pools" : [
+		 ],
+	"super" : "ACParserTest",
+	"type" : "normal" }

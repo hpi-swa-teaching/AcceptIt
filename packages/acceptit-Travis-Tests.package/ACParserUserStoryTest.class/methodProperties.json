@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"parserClassToTest" : "mp 6/6/2016 17:11",
+		"testUserStoryInvalidNewlinesMatch" : "mp 6/6/2016 17:12",
+		"testUserStoryInvalidOrderMatch" : "mp 6/6/2016 17:23",
+		"testUserStoryInvalidSyntaxMatch" : "mp 6/6/2016 17:12",
+		"testUserStoryInvalidTrailersMatch" : "mp 6/6/2016 17:12",
+		"testUserStoryMatch" : "mp 6/6/2016 17:12",
+		"testUserStoryMeansMatch" : "mp 6/6/2016 17:18",
+		"testUserStoryMeansOptionalToMatch" : "mp 6/6/2016 17:18",
+		"testUserStoryMeansOptionalToWithAnMatch" : "mp 6/6/2016 17:18",
+		"testUserStoryMissingArgsMatch" : "mp 6/6/2016 17:12",
+		"testUserStoryNewlineAfterTitleMatch" : "mp 6/6/2016 17:13",
+		"testUserStoryPurposeMatch" : "mp 6/13/2016 14:47",
+		"testUserStoryRoleMatch" : "mp 6/6/2016 17:19",
+		"testUserStoryRoleWithAnMatch" : "mp 6/6/2016 17:19",
+		"testUserStoryRoleWithPluralMatch" : "mp 6/6/2016 17:19",
+		"testUserStorySpacingMatch" : "mp 6/6/2016 17:13",
+		"testUserStoryTitleMatch" : "topa 5/19/2010 12:22" } }
