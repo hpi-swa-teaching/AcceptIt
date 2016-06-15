@@ -1,4 +1,0 @@
-initialize-release
-libraries
-
-	^{ACCalculatorLibrary}
