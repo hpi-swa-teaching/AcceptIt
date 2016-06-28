@@ -6,7 +6,7 @@ browseToStepImplementation
 	stepIndex < 3 ifTrue:[^nil]."no browsing for title and empty line"
 	
 	sc := scenarios at: scenarioIndex.
-	parser := AcceptitScenarioParser new.
+	parser := ACScenarioParser new.
 	parsedScenario := parser parseTree: (( sc class compiledMethodAt: sc selector) getSource) asString.
 	linesWithPrefix := OrderedCollection new.
 	

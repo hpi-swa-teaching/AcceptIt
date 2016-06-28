@@ -3,7 +3,7 @@ buildArgumentsForMethod: aMethod using: aString
 
 	| selector |
 	selector :=  (aMethod pragmas detect: [:pragma | pragma keyword = #step:]) arguments first.
-	^ (AcceptitTranslator 
+	^ (ACTranslator 
 		bindParametersInSelector: selector 
 		toValuesIn: aString withoutLeadingSubject withLeadingAuxiliaryNormalized)
 		collect: [:assoc | assoc value]

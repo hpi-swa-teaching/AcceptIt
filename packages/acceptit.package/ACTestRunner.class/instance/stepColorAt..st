@@ -13,7 +13,7 @@ stepColorAt: anIndex
 				ifTrue: [statuus at: #all] "fallback, eg errors in setup"
 				ifFalse: [|source pt sourceId parser |
 					source := scenario testMethodSource asString.
-					parser := AcceptitScenarioParser new.
+					parser := ACScenarioParser new.
 					pt := parser annotatedTree: source.
 					(pt ~= false) 
 						ifFalse: failBlock.		

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"bindParametersInCollection:toValuesIn:" : "mp 5/31/2016 19:57",
+		"bindParametersInSelector:toValuesIn:" : "mp 6/28/2016 23:52",
+		"buildSelectorPartsFromString:" : "mp 5/31/2016 19:56",
+		"parameterStringFor:" : "mp 5/31/2016 19:56",
+		"replaceParametersWithStarsIn:" : "mp 5/31/2016 19:56" },
+	"instance" : {
+		 } }

@@ -1,10 +1,11 @@
 instance creation
 userStoryNamed: aName story: aStory withCategory: aCategory fullText: anObject
 
-	| newClass evaluator code|
-	evaluator := AcceptitUserstoryGrammar synthesizedAttribute: AcceptitUserstorySemantic new.
+	| newClass evaluator code usParser|
+	usParser := ACUserStoryParser new.
+	evaluator := usParser grammar synthesizedAttribute: usParser semantic new.
 	code := evaluator value: (
-		AcceptitUserstoryGrammar matchContents: anObject startingFrom: #userstory  
+		usParser grammar matchContents: anObject startingFrom: usParser startRule  
 		). 
 	code := code, String cr, 'category: ''', aCategory, ''''. 
 	newClass := (Compiler 

@@ -2,5 +2,5 @@ behavior-compiling
 compilerClass
 		
 	^ self looksLikeUserStoryHeir
-		ifTrue: [	AcceptitScenarioCompiler]
+		ifTrue: [	ACScenarioCompiler]
 		ifFalse: [super compilerClass]

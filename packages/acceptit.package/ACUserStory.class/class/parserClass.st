@@ -8,5 +8,5 @@ parserClass
 				(thisContext sender selector = #validateMessageSource:forSelector:) or:  [
 				thisContext sender selector =	#validateMessageSource:forSelector:inClass: ]])
 					ifTrue: [^ACUSParser]"
-			^ AcceptitScenarioParser].
+			^ ACScenarioParser].
 	^ super parserClass

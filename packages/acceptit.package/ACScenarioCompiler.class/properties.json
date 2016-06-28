@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACScenarioCompiler",
+	"pools" : [
+		 ],
+	"super" : "ACCompiler",
+	"type" : "normal" }
