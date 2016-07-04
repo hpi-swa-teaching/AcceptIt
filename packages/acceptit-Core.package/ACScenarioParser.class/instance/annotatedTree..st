@@ -3,8 +3,8 @@ annotatedTree: aString
 
 	|evaluator match|
 	evaluator := self grammar synthesizedAttribute: self semantic new.
-	match := self grammar matchContents: aString startingFrom: self annotatedRule.
-	(match == false) 
+	match := self grammar match: aString startingFrom: self annotatedRule.
+	(match failed == false) 
 		ifTrue: [
 			^false
 			]

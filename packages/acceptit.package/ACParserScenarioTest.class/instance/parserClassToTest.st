@@ -1,4 +1,0 @@
-helpers
-parserClassToTest
-
-	^ ACScenarioParser

@@ -5,4 +5,4 @@ method: aNode withHead: aHead andBody: aBody
 	headDictionary := self value: aHead.
 	headDictionary at: #body put: (aBody interval contents).
 	
-	^self buildCodeFrom: headDictionary
+	^headDictionary

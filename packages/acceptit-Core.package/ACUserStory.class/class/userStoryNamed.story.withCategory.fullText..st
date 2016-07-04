@@ -4,9 +4,9 @@ userStoryNamed: aName story: aStory withCategory: aCategory fullText: anObject
 	| newClass evaluator code usParser|
 	usParser := ACUserStoryParser new.
 	evaluator := usParser grammar synthesizedAttribute: usParser semantic new.
-	code := evaluator value: (
-		usParser grammar matchContents: anObject startingFrom: usParser startRule  
-		). 
+	code := usParser buildCode: (evaluator value: (
+		usParser grammar match: anObject startingFrom: usParser startRule  
+		)). 
 	code := code, String cr, 'category: ''', aCategory, ''''. 
 	newClass := (Compiler 
 		evaluate: code

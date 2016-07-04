@@ -1,4 +1,0 @@
-ohm-s
-semantic
-
-	^ACUserStorySemantic

@@ -3,8 +3,8 @@ parseTree: aString
 
 	|evaluator match|
 	evaluator := self grammar synthesizedAttribute: self semantic new.
-	match := self grammar matchContents: aString startingFrom: self treeRule.
-	(match == false) 
+	match := self grammar match: aString startingFrom: self treeRule.
+	(match failed == false) 
 		ifTrue: [
 			^false
 			]

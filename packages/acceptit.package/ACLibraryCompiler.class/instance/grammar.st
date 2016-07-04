@@ -1,4 +1,0 @@
-ohm-s
-grammar
-
-	^ACLibraryGrammar 

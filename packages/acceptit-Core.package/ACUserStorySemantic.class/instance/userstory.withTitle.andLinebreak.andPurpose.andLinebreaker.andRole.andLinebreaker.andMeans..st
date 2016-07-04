@@ -12,4 +12,4 @@ andMeans: means
 	aDictionary at: #role put: (self value: role).
 	aDictionary at: #means put: (self value: means).
 	
-	^self buildCodeFrom: aDictionary
+	^aDictionary

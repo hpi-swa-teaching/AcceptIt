@@ -3,10 +3,10 @@ compile: origCode in: cls classified: aCategory notifying: notify ifFail: failBl
 
 	| translatedCode evaluator match|
 	evaluator := self grammar synthesizedAttribute: self semantic new.
-	match := self grammar matchContents: origCode startingFrom: self startRule.  
-	(match == false) 
+	match := self grammar match: origCode startingFrom: self startRule.  
+	(match failed) 
 		ifFalse: [
-			translatedCode := (evaluator value: match) readStream
+			translatedCode := (self buildCode: (evaluator value: match)) readStream
 			]
 		ifTrue: [
 			translatedCode := origCode asString readStream.

@@ -1,4 +1,4 @@
 ohm-s
 semantic
 
-	^AcceptitScenarioSemantic
+	^ACScenarioSemantic
