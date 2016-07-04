@@ -1,0 +1,15 @@
+{
+	"category" : "acceptit-Core-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastRule",
+		"currentLine" ],
+	"name" : "ACScenarioSemantic",
+	"pools" : [
+		 ],
+	"super" : "OhmSynthesizedAttribute",
+	"type" : "normal" }

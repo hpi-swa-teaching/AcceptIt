@@ -1,0 +1,4 @@
+debugging
+theCompiledMethod
+
+	^ method

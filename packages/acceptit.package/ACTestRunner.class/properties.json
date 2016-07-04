@@ -1,0 +1,20 @@
+{
+	"category" : "acceptit-GUI",
+	"classinstvars" : [
+		"colors" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scenariosSelected",
+		"scenarios",
+		"scenarioIndex",
+		"stepSelected",
+		"stepIndex",
+		"stepColors",
+		"showUserStory" ],
+	"name" : "ACTestRunner",
+	"pools" : [
+		 ],
+	"super" : "TestRunner",
+	"type" : "normal" }

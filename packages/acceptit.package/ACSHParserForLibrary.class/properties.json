@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACSHParserForLibrary",
+	"pools" : [
+		 ],
+	"super" : "SHParserST80",
+	"type" : "normal" }

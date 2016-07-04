@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stdParser" ],
+	"name" : "ACParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
