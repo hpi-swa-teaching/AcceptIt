@@ -6,7 +6,8 @@ compile: origCode in: cls classified: aCategory notifying: notify ifFail: failBl
 	match := self grammar match: origCode startingFrom: self startRule.  
 	(match failed) 
 		ifFalse: [
-			translatedCode := (self buildCode: (evaluator value: match)) readStream
+			translatedCode := (self buildCode: (evaluator value: match)) readStream.
+			Transcript show: translatedCode contents.
 			]
 		ifTrue: [
 			translatedCode := origCode asString readStream.

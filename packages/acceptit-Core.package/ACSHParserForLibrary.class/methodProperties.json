@@ -2,6 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"parseAMethod" : "mp 6/22/2016 12:22",
-		"parseAMethod:" : "mp 6/22/2016 12:21",
-		"rangesIn:classOrMetaClass:workspace:environment:" : "mp 6/22/2016 12:21" } }
+		"atEndOfLine" : "mp 7/12/2016 23:50",
+		"inScanLine" : "mp 7/12/2016 23:50",
+		"inScanLine:" : "mp 7/12/2016 23:49",
+		"initialize" : "mp 7/12/2016 23:49",
+		"isEndOfLine:" : "mp 7/12/2016 23:49",
+		"parseMessagePattern" : "mp 7/12/2016 23:48",
+		"scanLine" : "mp 7/12/2016 23:49",
+		"scanWhitespace" : "mp 7/12/2016 23:48" } }
