@@ -15,3 +15,14 @@ Metacello new
   get;
   load
 ```
+
+# Usage
+
+1.	Choose a class to test like for example "MySuperCalculator" 
+2.	Create a user story by running the following code in the workspace:  
+(https://drive.google.com/open?id=0B1u0xaHo8ywZcmRzd191MUZ2LUk)
+3.	Create a library by running the following code in the workspace and add the library:   
+(https://drive.google.com/open?id=0B1u0xaHo8ywZanpYSTBvVkdkRzg)
+4.	write the test scenario and the needed library functions:    
+5.	run the Test-Runner and test it 
+
