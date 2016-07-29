@@ -25,7 +25,7 @@ Metacello new
 ACUserStory userStoryNamed: 'ACCalculatorUserStory' 
 
 story: 
-AC Calculator User Story
+'AC Calculator User Story
 In order to test my sophisticated calculator class
 As a developer
 I want to do some complicated calculations'
@@ -43,7 +43,6 @@ I want to do some complicated calculations'.
 ```
 ACLibrary generateNewLibrary: MySuooerCalculator
 ``` 
-
 4. Add a 'libraries' message to your user story class and make it return '^{MySuperCalculatorLibrary}'
 
 5.	write the test scenario in your user story
