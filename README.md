@@ -1,4 +1,4 @@
-# SWT16-Project-07 [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT16-Project-07.svg?branch=master)](https://travis-ci.org/HPI-SWA-Teaching/SWT16-Project-07)
+# AcceptIt [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/AcceptIt.svg?branch=master)](https://travis-ci.org/HPI-SWA-Teaching/AcceptIt)
 
 
 
@@ -11,7 +11,7 @@
 ```smalltalk
 Metacello new
   baseline: 'AcceptIt';
-  repository: 'github://HPI-SWA-Teaching/SWT16-Project-07/packages';
+  repository: 'github://HPI-SWA-Teaching/AcceptIt/packages';
   get;
   load
 ```
