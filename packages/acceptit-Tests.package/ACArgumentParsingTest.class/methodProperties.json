@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testArgumentParsing" : "mp 6/28/2016 23:51",
-		"testArgumentParsingWithASingleArgument" : "mp 6/28/2016 23:51",
-		"testArgumentParsingWithSpecialCharacters" : "mp 6/28/2016 23:51",
-		"testArgumentParsingWithoutArguments" : "mp 6/28/2016 23:51" } }
+		"testArgumentParsing" : "ez 4/24/2018 15:51",
+		"testArgumentParsingWithASingleArgument" : "ez 4/24/2018 15:50",
+		"testArgumentParsingWithSpecialCharacters" : "ez 4/24/2018 15:51",
+		"testArgumentParsingWithoutArguments" : "ez 4/24/2018 15:51" } }

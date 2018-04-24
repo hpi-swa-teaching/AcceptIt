@@ -2,7 +2,7 @@ tests-Scenario
 testScenarioMatchAnd
 	
 	|scenario|
-	scenario:= 
+	scenario := 
 'Hello World
 
 Given I have a web site

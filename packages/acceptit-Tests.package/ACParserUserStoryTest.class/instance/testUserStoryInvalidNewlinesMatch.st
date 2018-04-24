@@ -2,7 +2,7 @@ tests-UserStory
 testUserStoryInvalidNewlinesMatch
 
 	|userStoryInvalidNewlines|
-	userStoryInvalidNewlines :='A Title
+	userStoryInvalidNewlines := 'A Title
 		In order to achieve something
 		
 		As a role

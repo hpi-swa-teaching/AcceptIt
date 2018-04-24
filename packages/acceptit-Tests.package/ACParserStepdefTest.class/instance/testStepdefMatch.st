@@ -2,7 +2,7 @@ tests
 testStepdefMatch
 
 	|stepdef|
-	stepdef:= 
+	stepdef := 
 	'(given) is a User
 	
 	^ self.'.
