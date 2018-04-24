@@ -3,8 +3,8 @@ testArgumentParsing
 
 	|body selectorString variableAssociations|
 
-	body:= 'see potatoe on the 2. screen fert'.
-	selectorString:= 'see :thing on the :number screen :name'.
+	body := 'see potatoe on the 2. screen fert'.
+	selectorString := 'see :thing on the :number screen :name'.
 
 	variableAssociations := ACTranslator bindParametersInSelector: selectorString toValuesIn: body.
 

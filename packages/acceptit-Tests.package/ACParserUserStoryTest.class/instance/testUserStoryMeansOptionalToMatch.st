@@ -3,4 +3,4 @@ testUserStoryMeansOptionalToMatch
 
 	|meansOptionalTo|
 	meansOptionalTo := 'I want a cake.'.
-	self should: [  self match: meansOptionalTo with: #means].
+	self should: [self match: meansOptionalTo with: #means].
