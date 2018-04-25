@@ -2,17 +2,17 @@ as yet unclassified
 serializedGrammar
 ^ 'AcceptitUserstoryGrammar <: BaseGrammar {
 
-linebreak = ''\n''
+linebreak = "\n"
 
-means = (space | tabstop)* (''I want '' | ''I want to '') text ''.''?
+means = (space | tabstop)* ("I want " | "I want to ") text "."?
 
-purpose = (space | tabstop)* ''In order to '' text
+purpose = (space | tabstop)* "In order to " text
 
-role = (space | tabstop)* (''As a '' | ''As an '') text
+role = (space | tabstop)* ("As a " | "As an ") text
 
-space := '' ''
+space := " "
 
-tabstop = ''\t''
+tabstop = "\t"
 
 text = alnum+ (space | alnum)*
 
