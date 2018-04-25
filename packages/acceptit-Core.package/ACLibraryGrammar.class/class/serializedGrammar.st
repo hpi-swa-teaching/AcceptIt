@@ -8,9 +8,9 @@ addWord = space word
 
 anyText = any*
 
-given = ''('' ''given'' '')''
+given = "(" "given" ")"
 
-linebreak = ''\n''
+linebreak = "\n"
 
 method = methodHead methodBody
 
@@ -18,16 +18,16 @@ methodBody = anyText
 
 methodHead = tag (addWord)+ (addParameter | addWord)* linebreak
 
-parameter = '':'' word
+parameter = ":" word
 
-space := '' ''
+space := " "
 
-tab = ''\t''
+tab = "\t"
 
 tag = given | when | then
 
-then = ''('' ''then'' '')''
+then = "(" "then" ")"
 
-when = ''('' ''when'' '')''
+when = "(" "when" ")"
 
 word = letter+}'

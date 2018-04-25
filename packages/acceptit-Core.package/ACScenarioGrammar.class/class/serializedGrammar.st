@@ -2,7 +2,7 @@ as yet unclassified
 serializedGrammar
 ^ 'AcceptitScenarioGrammar <: BaseGrammar {
 
-and = ''And''
+and = "And"
 
 andLinebreak = andRule linebreak
 
@@ -12,37 +12,37 @@ annotatedTreeScenario = name linebreak+ scenario
 
 fullScenario = name linebreak+ scenario
 
-given = ''Given''
+given = "Given"
 
 givenRule = given lineRest
 
 lineRest = space (text | quotedText) lineRest*
 
-linebreak = ''\n''
+linebreak = "\n"
 
 linebreakAnd = linebreak andRule
 
 name = word (space word)*
 
-quote = ''\''''
+quote = "\''"
 
-quotedText = quote (alnum | space | tabstop | linebreak | ''.'' | '','' | ''+'' | ''*'' | ''/'' | ''-'')* quote
+quotedText = quote (alnum | space | tabstop | linebreak | "." | "," | "+" | "*" | "/" | "-")* quote
 
 scenario = givenRule linebreak andLinebreak? whenRule linebreak andLinebreak? thenRule linebreakAnd?
 
-space := '' ''
+space := " "
 
-tabstop = ''\t''
+tabstop = "\t"
 
 text = word (space word)*
 
-then = ''Then''
+then = "Then"
 
 thenRule = then lineRest
 
 treeScenario = name linebreak+ scenario
 
-when = ''When''
+when = "When"
 
 whenRule = when lineRest
 
