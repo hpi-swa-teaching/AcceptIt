@@ -41,7 +41,7 @@ I want to do some complicated calculations'.
 
 3. Create a library by running the following code in the workspace:   
 ```smalltalk
-ACLibrary generateNewLibrary: MySuooerCalculator
+ACLibrary generateNewLibrary: MySuperCalculator
 ``` 
 4. Add a 'libraries' message to your user story class and make it return '^{MySuperCalculatorLibrary}'
 
