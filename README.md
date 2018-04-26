@@ -43,7 +43,14 @@ I want to do some complicated calculations'.
 ```smalltalk
 ACLibrary generateNewLibrary: MySuperCalculator
 ``` 
-4. Add a 'libraries' message to your user story class and make it return '^{MySuperCalculatorLibrary}'
+4. Add a 'libraries' message to your user story class and make it return the class of its Libary 
+
+```
+libaries
+
+  ^ {MySuperCalculatorLibrary}
+
+```
 
 5. write the test scenario in your user story
 ```
