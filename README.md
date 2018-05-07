@@ -6,7 +6,10 @@
 
 1. Make sure you have [metacello-work](https://github.com/dalehenrich/metacello-work) installed in your image.
 
-2. AcceptIt can be acquired by running following code in the workspace:
+2. Follow the following Guide for the [git repo setup](https://github.com/hpi-swa-teaching/AcceptIt/wiki/Git-setup-guide)
+If you follow the guide there is no need for Step 3.
+
+3. AcceptIt can be acquired by running following code in the workspace:
 
 ```smalltalk
 Metacello new
