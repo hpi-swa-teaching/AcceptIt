@@ -44,7 +44,7 @@ I want to do some complicated calculations'.
 
 3. Create a library by running the following code in the workspace:   
 ```smalltalk
-ACLibrary generateNewLibrary: MySuperCalculator
+ACLibrary generateNewLibrary: #MySuperCalculator
 ``` 
 4. Add a 'libraries' message to your user story class and make it return the class of its Libary 
 
@@ -57,22 +57,33 @@ libaries
 
 5. write the test scenario in your user story
 ```
-addition
+minimal viable user story
 
-Given A is 5
-And B is 6
-When I add A and B
-Then I expect 11
+Given A is true
+When I do nothing
+Then I expect A to be true
 ```
 
 6. Add needed methods to the library like
 ```smalltalk
-(given) A is :aNumber
+(given) A is :aBool
+  self class a: aBool
+  
+(when) I do nothing
 
-  self first: aNumber
+(then) I expect A to be :aBool
+  assert: [self class a = aBool
+```
+7. Add the according methods on class side (also add the class variable a):
+```smalltalk
+a: aBool
+  a := aBool.
+  
+a
+  ^a
 ```
 
-7. Run the Test-Runner
+8. Run the Test-Runner
 ```smalltalk
 ACTestRunner open
 ```
