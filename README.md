@@ -41,16 +41,9 @@ I want to do some complicated calculations'.
 
 3. Create a library by running the following code in the workspace:   
 ```smalltalk
-ACLibrary generateNewLibrary: MySuperCalculator
+ACLibrary generateNewLibrary: MySuooerCalculator
 ``` 
-4. Add a 'libraries' message to your user story class and make it return the class of its Libary 
-
-```
-libaries
-
-  ^ {MySuperCalculatorLibrary}
-
-```
+4. Add a 'libraries' message to your user story class and make it return '^{MySuperCalculatorLibrary}'
 
 5. write the test scenario in your user story
 ```
