@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"categoryName" : "jb 5/9/2018 14:14",
+		"libraryName" : "jb 5/9/2018 14:26",
+		"librarySuffix" : "jb 5/9/2018 14:29",
+		"setUp" : "jb 5/9/2018 14:30",
+		"tearDown" : "jb 5/9/2018 14:31",
+		"testItCreatesSomething" : "jb 5/9/2018 14:05",
+		"testItHasCorrectCategory" : "jb 5/9/2018 14:14",
+		"testItHasCorrectClassName" : "jb 5/9/2018 14:18",
+		"testItHasCorrectCompilerClass" : "jb 5/9/2018 14:32",
+		"testItHasCorrectParseClass" : "jb 5/9/2018 14:33",
+		"testItIsAACLibrary" : "jb 5/9/2018 14:20" } }
