@@ -46,10 +46,10 @@ I want to do some complicated calculations'.
 ```smalltalk
 ACLibrary generateNewLibrary: #MySuperCalculator
 ``` 
-4. Add a 'libraries' message to your user story class and make it return the class of its Libary 
+4. Add a `libraries` method on class side to your user story class and make it return the class of it's library 
 
 ```
-libaries
+libraries
 
   ^ {MySuperCalculatorLibrary}
 
@@ -72,9 +72,9 @@ Then I expect A to be true
 (when) I do nothing
 
 (then) I expect A to be :aBool
-  assert: [self class a = aBool
+  assert: [self class a = aBool]
 ```
-7. Add the according methods on class side (also add the class variable a):
+7. Add the according methods on class side (also add an instance variable `a` on class side):
 ```smalltalk
 a: aBool
   a := aBool.
