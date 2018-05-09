@@ -1,4 +1,4 @@
-as yet unclassified
+setUp and tearDown
 setUp
 	ACLibrary generateNewLibrary: self libraryName asSymbol.
-	generatedLibrary := Smalltalk classNamed: (self libraryName, self librarySuffix).
+	self generatedLibrary: (Smalltalk classNamed: self libraryName, self librarySuffix).

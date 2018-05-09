@@ -1,3 +1,3 @@
-as yet unclassified
+tests
 testItHasCorrectCategory
-	self assert: generatedLibrary category equals: self categoryName.
+	self assert: self generatedLibrary category equals: self categoryName.

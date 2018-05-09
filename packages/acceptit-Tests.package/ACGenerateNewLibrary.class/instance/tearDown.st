@@ -1,4 +1,4 @@
-as yet unclassified
+setUp and tearDown
 tearDown
-	generatedLibrary removeFromSystemUnlogged.
+	self generatedLibrary removeFromSystemUnlogged.
 	SystemOrganization removeEmptyCategories.

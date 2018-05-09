@@ -1,4 +1,4 @@
-as yet unclassified
+setUp and tearDown
 tearDown
 	super tearDown.
 	(Smalltalk classNamed: self userStoryName) removeFromSystemUnlogged.
