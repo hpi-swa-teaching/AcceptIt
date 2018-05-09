@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"createdClass" ],
-	"name" : "ACCreateUserStoryTest",
+	"name" : "NameOfSubclass",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "Object",
 	"type" : "normal" }
