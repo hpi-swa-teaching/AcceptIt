@@ -1,3 +1,3 @@
 tests
 testItHasCorrectClassName
-	self assert: self createdClass name equals: self userStoryName.
+	self assert: self userStoryName equals: self createdClass name.

@@ -1,3 +1,3 @@
 tests
 testItHasCorrectCompilerClass
-	self assert: self generatedLibrary compilerClass equals: ACLibraryCompiler.
+	self assert: self libraryCompiler equals: self generatedLibrary compilerClass.
