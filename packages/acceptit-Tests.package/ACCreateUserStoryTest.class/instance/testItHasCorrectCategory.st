@@ -1,3 +1,3 @@
 tests
 testItHasCorrectCategory
-	self assert: self createdClass category equals: self categoryName.
+	self assert: self categoryName equals: self createdClass category. 

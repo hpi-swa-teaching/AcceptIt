@@ -1,3 +1,3 @@
 tests
 testItHasCorrectClassName 
-	self assert: self generatedLibrary name equals: self libraryName , self librarySuffix.
+	self assert: self libraryName , self librarySuffix equals: self generatedLibrary name.
