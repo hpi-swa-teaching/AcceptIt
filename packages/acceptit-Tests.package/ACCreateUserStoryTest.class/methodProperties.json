@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicUserStory" : "jb 5/9/2018 10:40",
+		"categoryName" : "jb 5/9/2018 10:40",
+		"createdClass" : "jb 5/9/2018 10:54",
+		"createdClass:" : "jb 5/9/2018 10:55",
+		"setUp" : "jb 5/9/2018 10:55",
+		"tearDown" : "jb 5/9/2018 10:54",
+		"testItCreatesSomething" : "jb 5/9/2018 10:56",
+		"testItHasCorrectCategory" : "jb 5/9/2018 10:56",
+		"testItHasCorrectClassName" : "jb 5/9/2018 10:56",
+		"userStoryName" : "jb 5/9/2018 10:38" } }
