@@ -9,7 +9,11 @@ SmalltalkCISpec {
   ],
   #testing : {
     #coverage : {
-      #categories : [ 'acceptit' ]
+      #categories : [ 
+			  'acceptit-GUI', 
+			  'acceptit-Core-Model', 
+			  'acceptit-Core-Compiler' 
+      ]
     }
   }
 }
