@@ -1,3 +1,3 @@
-as yet unclassified
+tests
 testItHasCorrectParseClass
-	self assert: generatedLibrary parserClass equals: ACLibraryParser.
+	self assert: self generatedLibrary parserClass equals: ACLibraryParser.

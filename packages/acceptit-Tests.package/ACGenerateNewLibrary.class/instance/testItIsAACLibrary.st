@@ -1,3 +1,3 @@
-as yet unclassified
+tests
 testItIsAACLibrary
-	self assert: generatedLibrary isACLibrary
+	self assert: self generatedLibrary isACLibrary

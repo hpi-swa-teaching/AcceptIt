@@ -1,4 +1,4 @@
-as yet unclassified
+setUp and tearDown
 setUp
 	super setUp.
 	ACUserStory userStoryNamed: self userStoryName 

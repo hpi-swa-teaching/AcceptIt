@@ -3,13 +3,15 @@
 		 },
 	"instance" : {
 		"categoryName" : "jb 5/9/2018 14:14",
+		"generatedLibrary" : "jb 5/9/2018 15:08",
+		"generatedLibrary:" : "jb 5/9/2018 15:09",
 		"libraryName" : "jb 5/9/2018 14:26",
 		"librarySuffix" : "jb 5/9/2018 14:29",
-		"setUp" : "jb 5/9/2018 14:30",
-		"tearDown" : "jb 5/9/2018 14:31",
-		"testItCreatesSomething" : "jb 5/9/2018 14:05",
-		"testItHasCorrectCategory" : "jb 5/9/2018 14:14",
-		"testItHasCorrectClassName" : "jb 5/9/2018 14:18",
-		"testItHasCorrectCompilerClass" : "jb 5/9/2018 14:32",
-		"testItHasCorrectParseClass" : "jb 5/9/2018 14:33",
-		"testItIsAACLibrary" : "jb 5/9/2018 14:20" } }
+		"setUp" : "jb 5/9/2018 15:21",
+		"tearDown" : "jb 5/9/2018 15:22",
+		"testItCreatesSomething" : "jb 5/9/2018 15:21",
+		"testItHasCorrectCategory" : "jb 5/9/2018 15:22",
+		"testItHasCorrectClassName" : "jb 5/9/2018 15:22",
+		"testItHasCorrectCompilerClass" : "jb 5/9/2018 15:22",
+		"testItHasCorrectParseClass" : "jb 5/9/2018 15:22",
+		"testItIsAACLibrary" : "jb 5/9/2018 15:22" } }

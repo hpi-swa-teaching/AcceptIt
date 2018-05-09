@@ -1,3 +1,3 @@
-as yet unclassified
+tests
 testItCreatesSomething
 	self assert: [self createdClass ~= nil].
