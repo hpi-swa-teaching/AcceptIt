@@ -1,3 +1,3 @@
 as yet unclassified
 testItHasCorrectCategory
-	self assert: [self createdClass category = self categoryName].
+	self assert: self createdClass category equals: self categoryName.
