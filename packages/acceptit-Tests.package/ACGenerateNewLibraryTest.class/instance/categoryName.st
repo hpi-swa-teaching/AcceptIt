@@ -1,4 +1,4 @@
 constants
 categoryName
 	
-	^ 'Generated'
+	^ 'AcceptItGenerated'

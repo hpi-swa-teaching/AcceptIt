@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"generatedLibrary" ],
-	"name" : "ACGenerateNewLibrary",
+	"name" : "ACGenerateNewLibraryTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
