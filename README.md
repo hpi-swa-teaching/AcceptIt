@@ -60,28 +60,34 @@ libraries
 
 5. write the test scenario in your user story
 ```
-minimal viable user story
+mvus
 
 Given A is true
 When I do nothing
-Then I expect A to be true
+Then I expect A to be trtrue
 ```
+AND YES THE `trtrue` IS INTENTIONAL AND JUST A WEIRD WORKAROUND THE THEN-PARSER IS BUGGED ATM see issue #39
 
 6. Add needed methods to the library like
 ```smalltalk
 (given) A is :aBool
-  self class a: aBool
+  MySuperCalculatorLibrary a: aBool.
+```
   
+```smalltalk
 (when) I do nothing
 
+```
+```smalltalk
 (then) I expect A to be :aBool
-  assert: [self class a = aBool]
+	self assert: [MySuperCalculatorLibrary a = aBool].
 ```
 7. Add the according methods on class side (also add an instance variable `a` on class side):
 ```smalltalk
 a: aBool
   a := aBool.
-  
+```
+```smalltalk
 a
   ^a
 ```
