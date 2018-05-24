@@ -4,8 +4,8 @@
 		"purpose",
 		"role",
 		"means",
-		"storyName",
-		"userStoryString" ],
+		"title",
+		"storyName" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

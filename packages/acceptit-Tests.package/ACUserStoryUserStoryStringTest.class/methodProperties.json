@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicUserStoryWithTitle" : "jb 5/24/2018 10:34",
+		"basicUserStoryWithoutTitle" : "jb 5/24/2018 10:37",
+		"categoryName" : "jb 5/24/2018 10:12",
+		"setUp" : "jb 5/24/2018 10:35",
+		"testItHasCorrectMeans" : "jb 5/24/2018 10:17",
+		"testItHasCorrectPurpose" : "jb 5/24/2018 10:17",
+		"testItHasCorrectRole" : "jb 5/24/2018 11:04",
+		"testItHasCorrectTitle" : "jb 5/24/2018 11:02",
+		"testItHasCorrectUserStoryString" : "jb 5/24/2018 10:35",
+		"userStory" : "jb 5/24/2018 10:17",
+		"userStory:" : "jb 5/24/2018 10:18" } }

@@ -1,4 +1,4 @@
-instance creation
+user story creation
 named: aNameSymbol
 purpose: purposeString
 role: roleString

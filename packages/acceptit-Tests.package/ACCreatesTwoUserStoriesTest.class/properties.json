@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"generatedLibrary" ],
-	"name" : "ACGenerateNewLibraryTest",
+		"createdClass2",
+		"createdClass" ],
+	"name" : "ACCreatesTwoUserStoriesTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

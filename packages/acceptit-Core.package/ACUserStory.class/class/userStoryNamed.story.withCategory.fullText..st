@@ -1,4 +1,4 @@
-instance creation
+user story creation
 userStoryNamed: aName story: aStory withCategory: aCategory fullText: anObject
 
 	| newClass evaluator code usParser|

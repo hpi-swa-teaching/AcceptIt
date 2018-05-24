@@ -4,6 +4,10 @@ parseTree: aString
 	|evaluator match|
 	evaluator := self grammar synthesizedAttribute: self semantic new.
 	match := self grammar match: aString startingFrom: self treeRule.
-	match succeeded
-		ifTrue: [^evaluator value: match]
-		ifFalse: [^false]       
+	(match failed == false) 
+		ifTrue: [
+			^false
+			]
+		ifFalse: [
+			^evaluator value: match
+			]       

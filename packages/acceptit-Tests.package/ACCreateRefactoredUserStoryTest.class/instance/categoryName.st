@@ -1,0 +1,5 @@
+constants
+categoryName
+	
+	^'acceptitTest-calculator'
+	

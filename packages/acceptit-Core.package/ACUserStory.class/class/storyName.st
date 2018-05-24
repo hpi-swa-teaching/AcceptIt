@@ -1,5 +1,3 @@
-accessing
+api-running
 storyName
-	"Answer the value of storyName"
-
-	^ storyName
+	^storyName

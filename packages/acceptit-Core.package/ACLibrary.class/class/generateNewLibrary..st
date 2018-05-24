@@ -1,7 +1,6 @@
 provisioning
 generateNewLibrary: aClassOrSymbol
 	"inspiration from Browser>>#copyClass"
-	"very ugly long method here we should probably just stick to subclassing this class instead of literally copying this code?"
 	
 	| newClass newClassName newCategory newInstVars oldClass |
 	oldClass  := aClassOrSymbol isSymbol
@@ -10,7 +9,7 @@ generateNewLibrary: aClassOrSymbol
 	
 	newClassName := (aClassOrSymbol asString, 'Library') asSymbol.
 	newCategory := (oldClass == Object)
-		ifTrue: [self libraryCategoryName] 
+		ifTrue: ['Generated'] 
 		ifFalse: [oldClass category].
 
 	newInstVars := (oldClass allInstVarNames includes: 'scenario')

@@ -1,4 +1,4 @@
-instance creation
+user story creation
 named: aName
 story: aStoryString
 category: aCategory

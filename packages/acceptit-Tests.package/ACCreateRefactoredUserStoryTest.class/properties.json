@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"createdClass" ],
+	"name" : "ACCreateRefactoredUserStoryTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

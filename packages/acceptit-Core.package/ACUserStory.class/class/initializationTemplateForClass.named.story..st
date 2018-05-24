@@ -1,4 +1,4 @@
-instance creation
+user story creation
 initializationTemplateForClass: newClass named: aName story: aStory
 
 	^ String streamContents: [:stream |
@@ -6,8 +6,7 @@ initializationTemplateForClass: newClass named: aName story: aStory
 			nextPutAll: 'initialize'; crtab;
 			nextPutAll: '<generated>';cr;crtab;
 			nextPutAll: 'super initialize.'; crtab;
-			nextPutAll: 'self storyName: '; store: aName; nextPutAll: '.';crtab;
-			nextPutAll: 'self userStoryString: '; store: aStory; nextPutAll:  '.'; crtab.
+			nextPutAll: 'self storyName: '; store: aName; nextPutAll: '.';crtab.
 		#( role purpose means ) do: [:propertyName | 
 			(newClass perform: propertyName) ifNotNil: [:property |
 				stream 
