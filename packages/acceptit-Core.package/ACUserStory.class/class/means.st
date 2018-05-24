@@ -1,3 +1,3 @@
 constants
 means
-	^means
+	"self subclassResponsibility."

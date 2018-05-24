@@ -1,5 +1,0 @@
-constants
-categoryName
-	
-	^'acceptitTest-calculator'
-	

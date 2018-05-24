@@ -1,3 +1,3 @@
 constants
 purpose
-	^purpose
+	"self subclassResponsibility."

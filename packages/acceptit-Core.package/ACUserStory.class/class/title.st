@@ -1,3 +1,3 @@
 constants
 title
-	^title
+	"self subclassResponsibility."

@@ -1,3 +1,3 @@
 constants
 role
-	^role
+	"self subclassResponsibility."
