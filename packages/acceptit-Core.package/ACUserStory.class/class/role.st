@@ -1,4 +1,3 @@
-accessing
+constants
 role
-
-	^role
+	"self subclassResponsibility."
