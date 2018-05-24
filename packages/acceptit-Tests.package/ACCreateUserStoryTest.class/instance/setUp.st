@@ -1,8 +1,6 @@
 setUp and tearDown
 setUp
 	super setUp.
-	ACUserStory userStoryNamed: self userStoryName 
-		story: self basicUserStory
-		withCategory: self categoryName
-		fullText: self basicUserStory.
-	self createdClass: (Smalltalk classNamed: self userStoryName).
+	ACUserStory createUserStory: self userStoryString
+		withCategory: self categoryName.
+	self createdClass: (Smalltalk classNamed: self userStoryNameTrimmed).
