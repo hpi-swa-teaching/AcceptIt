@@ -1,5 +1,5 @@
 constants
 userStoryName
 	
-	^'ACCalculatorUserStory'
+	^'AC Calculator User Story'
 	

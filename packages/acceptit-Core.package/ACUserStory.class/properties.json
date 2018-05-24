@@ -1,11 +1,7 @@
 {
 	"category" : "acceptit-Core-Model",
 	"classinstvars" : [
-		"purpose",
-		"role",
-		"means",
-		"storyName",
-		"userStoryString" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

@@ -7,6 +7,6 @@ definition
 			superklass := (super definition findTokens: ' ') first.
 			stream
 				nextPutAll: superklass; space;
-				nextPutAll: 'named:'; space; store: self storyName; crtab;
+				nextPutAll: 'named:'; space; store: self title; crtab;
 				nextPutAll: 'story:'; cr; store: self userStoryString;  crtab;
 				nextPutAll: 'category:'; space; store: self category asString]]
