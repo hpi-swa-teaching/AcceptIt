@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 basicUserStoryWithoutTitle
 	
 	^'In order to test my sophisticated calculator class

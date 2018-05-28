@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 basicUserStory2
 	
 	^'AC Calculator2 User Story

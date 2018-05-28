@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 categoryName2
 	
 	^'acceptitTest-calculator2'

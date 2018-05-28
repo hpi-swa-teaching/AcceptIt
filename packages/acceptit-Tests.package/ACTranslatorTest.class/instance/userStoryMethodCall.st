@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 userStoryMethodCall
 	^'ACUserStory named: #TESTUserStory
 purpose: ''test the translator''

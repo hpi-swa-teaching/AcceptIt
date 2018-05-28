@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testBuildUserStoryFromDictionary
 	|userStory|
 	userStory := ACTranslator buildUserstoryFrom: self userStoryDictionary.
