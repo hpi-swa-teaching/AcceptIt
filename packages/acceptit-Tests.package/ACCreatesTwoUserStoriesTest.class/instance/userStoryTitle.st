@@ -1,4 +1,0 @@
-constants
-userStoryTitle
-	
-	^'ACCalculatorUserStory'

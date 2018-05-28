@@ -2,16 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"basicUserStory" : "jb 5/22/2018 22:09",
-		"basicUserStory2" : "jb 5/22/2018 23:20",
-		"categoryName" : "jb 5/22/2018 22:09",
-		"categoryName2" : "jb 5/22/2018 22:18",
 		"createdClass" : "jb 5/22/2018 22:11",
 		"createdClass2" : "jb 5/22/2018 22:11",
 		"createdClass2:" : "jb 5/22/2018 22:12",
 		"createdClass:" : "jb 5/22/2018 22:10",
-		"setUp" : "jb 5/28/2018 13:19",
-		"tearDown" : "jb 5/28/2018 13:19",
-		"testBothExist" : "jb 5/22/2018 22:17",
-		"userStoryTitle" : "jb 5/28/2018 13:11",
-		"userStoryTitle2" : "jb 5/28/2018 13:19" } }
+		"setUp" : "ez 5/28/2018 18:07",
+		"tearDown" : "ez 5/28/2018 18:05",
+		"testBothExist" : "jb 5/22/2018 22:17" } }
