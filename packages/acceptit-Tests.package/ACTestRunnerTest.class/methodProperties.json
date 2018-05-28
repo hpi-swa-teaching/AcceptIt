@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jb 5/28/2018 18:19",
+		"tearDown" : "jb 5/28/2018 18:19",
+		"testItHasABar" : "jb 5/28/2018 19:29",
+		"testItHasABarAndButton" : "jb 5/28/2018 19:30" } }
