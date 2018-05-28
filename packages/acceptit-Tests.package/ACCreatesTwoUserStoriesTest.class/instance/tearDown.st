@@ -1,7 +1,7 @@
 setUp and tearDown
 tearDown
 	super tearDown.
-	(Smalltalk classNamed: self userStoryTitle) removeFromSystemUnlogged.
-	SystemOrganization removeCategory: self categoryName.
-	(Smalltalk classNamed: self userStoryTitle2) removeFromSystemUnlogged.
-	SystemOrganization removeCategory: self categoryName2.
+	(Smalltalk classNamed: UserStoryFactory userStoryTitleTrimmed) removeFromSystemUnlogged.
+	SystemOrganization removeCategory: UserStoryFactory categoryName.
+	(Smalltalk classNamed: UserStoryFactory userStoryTitle2Trimmed) removeFromSystemUnlogged.
+	SystemOrganization removeCategory: UserStoryFactory categoryName2.

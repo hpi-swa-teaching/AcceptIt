@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UserStoryFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

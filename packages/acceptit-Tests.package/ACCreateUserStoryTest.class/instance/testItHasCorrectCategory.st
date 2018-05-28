@@ -1,3 +1,3 @@
 tests
 testItHasCorrectCategory
-	self assert: self categoryName equals: self createdClass category.
+	self assert: UserStoryFactory categoryName equals: self createdClass category.
