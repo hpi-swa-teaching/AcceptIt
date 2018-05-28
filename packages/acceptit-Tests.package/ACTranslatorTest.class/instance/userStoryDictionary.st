@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 userStoryDictionary
 	^(Dictionary new)
 		at: #title put: 'TESTUserStory';

@@ -1,5 +1,5 @@
 constants
-userStoryName
+userStoryTitle
 	
 	^'AC Calculator User Story'
 	
