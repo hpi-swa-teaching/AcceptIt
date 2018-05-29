@@ -1,0 +1,15 @@
+{
+	"category" : "acceptit-Tests",
+	"classinstvars" : [
+		"library",
+		"userStory" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACReadMeFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
