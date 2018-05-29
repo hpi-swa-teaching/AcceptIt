@@ -2,7 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "jb 5/28/2018 18:19",
+		"setUp" : "jb 5/29/2018 10:16",
 		"tearDown" : "jb 5/28/2018 18:19",
-		"testItHasABar" : "jb 5/28/2018 19:29",
-		"testItHasABarAndButton" : "jb 5/28/2018 19:30" } }
+		"testItHasABarAndButton" : "jb 5/29/2018 10:16" } }
