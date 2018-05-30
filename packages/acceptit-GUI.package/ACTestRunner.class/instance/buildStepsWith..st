@@ -3,6 +3,7 @@ buildStepsWith: aBuilder
 
 	^ aBuilder pluggableACListSpec new
 		model: self;
+		name: 'stepList';
 		list: #stepList;
 		menu: #stepMenu:;
 		getIndex: #stepSelected;
