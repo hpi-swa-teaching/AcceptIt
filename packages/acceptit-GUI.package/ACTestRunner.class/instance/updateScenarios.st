@@ -6,9 +6,10 @@ updateScenarios
 	scenarios := scenariosForClasses asArray
 		sort: [ :a :b | a printString <= b printString ].
 	scenarioIndex := 0.
-	scenariosSelected := scenariosSelected isNil
+	scenariosSelected :=  scenariosSelected isNil
 		ifTrue: [ scenariosForClasses ]
 		ifFalse: [ 
-			scenariosSelected
-				select: [ :each | scenariosForClasses includes: each ] ].
+			scenariosForClasses select: [ :newScenario |
+				 scenariosSelected contains: [ :oldScenario |
+					 oldScenario asString = newScenario asString ] ] ].
 	self changed: #scenarioList; changed: #scenarioSelected; changed: #hasRunnable.

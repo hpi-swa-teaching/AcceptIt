@@ -3,6 +3,7 @@ buildScenariosWith: aBuilder
 
 	^ aBuilder pluggableMultiSelectionListSpec new
 		model: self;
+		name: 'scenarioList';
 		list: #scenarioList;
 		menu: #scenarioMenu:;
 		getIndex: #scenarioSelected;
