@@ -1,3 +1,3 @@
 -- all --
 createUserStory
-	userStory := ACUserStory createUserStory: UserStoryFactory userStoryString withCategory: UserStoryFactory categoryName. 
+	userStory := ACUserStory createUserStory: ACUserStoryFactory userStoryString withCategory: ACUserStoryFactory categoryName. 

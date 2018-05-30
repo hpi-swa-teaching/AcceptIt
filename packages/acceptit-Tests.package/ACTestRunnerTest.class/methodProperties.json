@@ -3,7 +3,7 @@
 		 },
 	"instance" : {
 		"classList" : "ez 5/30/2018 15:42",
-		"filterClassList" : "ez 5/30/2018 16:03",
+		"filterClassList" : "jb 5/30/2018 19:13",
 		"filterScenarioList" : "ez 5/30/2018 16:04",
 		"scenarioList" : "ez 5/30/2018 15:42",
 		"scenarioStringInList" : "ez 5/30/2018 16:04",
@@ -11,7 +11,7 @@
 		"setUp" : "ez 5/30/2018 17:02",
 		"tearDown" : "ez 5/30/2018 17:04",
 		"testDisplaysScenario" : "ez 5/30/2018 16:06",
-		"testDisplaysUserStory" : "ez 5/30/2018 16:07",
+		"testDisplaysUserStory" : "jb 5/30/2018 19:14",
 		"testErroneousReadMeFails" : "ez 5/30/2018 16:08",
 		"testFailingReadMeFails" : "ez 5/30/2018 15:55",
 		"testReadMePasses" : "ez 5/30/2018 16:10",

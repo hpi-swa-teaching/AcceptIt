@@ -1,6 +1,6 @@
 as yet unclassified
 tearDown
-	(Smalltalk classNamed: UserStoryFactory userStoryTitleTrimmed) removeFromSystemUnlogged.
+	(Smalltalk classNamed: ACUserStoryFactory userStoryTitleTrimmed) removeFromSystemUnlogged.
 	(Smalltalk classNamed: 'MySuperCalculatorTESTLibrary') removeFromSystemUnlogged.
-	SystemOrganization removeCategory: UserStoryFactory categoryName.
+	SystemOrganization removeCategory: ACUserStoryFactory categoryName.
 	SystemOrganization removeEmptyCategories.
