@@ -3,7 +3,7 @@
 Branch  | Travis CI  | Code Coverage |
 ------- | ---------- | ------------- |
 master  | [![Build Status](https://travis-ci.org/hpi-swa-teaching/AcceptIt.svg?branch=master)](https://travis-ci.org/hpi-swa-teaching/AcceptIt) | |
-develop | [![Build Status](https://travis-ci.org/hpi-swa-teaching/AcceptIt.svg?branch=develop)](https://travis-ci.org/hpi-swa-teaching/AcceptIt) | [![Coverage Status](http://coveralls.io/repos/github/hpi-swa-teaching/AcceptIt/badge.svg?branch=develop)](https://coveralls.io/github/hpi-swa-teaching/AcceptIt) |
+develop | [![Build Status](https://travis-ci.org/hpi-swa-teaching/AcceptIt.svg?branch=develop)](https://travis-ci.org/hpi-swa-teaching/AcceptIt) | [![Coverage Status](http://coveralls.io/repos/github/hpi-swa-teaching/AcceptIt/badge.png?branch=develop)](https://coveralls.io/github/hpi-swa-teaching/AcceptIt) |
 
 # Installation  
 
