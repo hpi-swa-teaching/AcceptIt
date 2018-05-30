@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "UserStoryFactory",
+	"name" : "ACUserStoryFactory",
 	"pools" : [
 		 ],
 	"super" : "Object",

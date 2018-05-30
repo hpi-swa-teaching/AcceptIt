@@ -1,6 +1,6 @@
 setUp and tearDown
 setUp
 	super setUp.
-	ACUserStory createUserStory: UserStoryFactory userStoryString
-		withCategory: UserStoryFactory categoryName.
-	self createdClass: (Smalltalk classNamed: UserStoryFactory userStoryTitleTrimmed).
+	ACUserStory createUserStory: ACUserStoryFactory userStoryString
+		withCategory: ACUserStoryFactory categoryName.
+	self createdClass: (Smalltalk classNamed: ACUserStoryFactory userStoryTitleTrimmed).

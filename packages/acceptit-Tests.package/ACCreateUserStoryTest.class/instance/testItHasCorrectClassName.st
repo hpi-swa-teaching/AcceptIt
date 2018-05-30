@@ -1,3 +1,3 @@
 tests
 testItHasCorrectClassName
-	self assert: UserStoryFactory userStoryTitleTrimmed equals: self createdClass name.
+	self assert: ACUserStoryFactory userStoryTitleTrimmed equals: self createdClass name.
