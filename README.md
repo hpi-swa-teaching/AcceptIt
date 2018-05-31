@@ -24,25 +24,17 @@ Metacello new
 
 # Usage
 
-1. Choose a class to test like for example "MySuperCalculator" 
+1. Choose a class to test like for example "MySuperCalculator" You can also use the ACReadMeFactory to execute exactly the here described steps.
 
 2. Create a user story by running the following code in the workspace:  
 ```smalltalk
-ACUserStory userStoryNamed: 'ACCalculatorUserStory' 
-
-story: 
+ACUserStory createUserStory:
 'AC Calculator User Story
 In order to test my sophisticated calculator class
 As a developer
 I want to do some complicated calculations'
 
 withCategory: 'acceptitTest-calculator'
-
-fullText: 
-'AC Calculator User Story
-In order to test my sophisticated calculator class
-As a developer
-I want to do some complicated calculations'.
 ```
 
 3. Create a library by running the following code in the workspace:   
