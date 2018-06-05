@@ -17,6 +17,5 @@ parse: sourceStream class: cls noPattern: pat context: ctx notifying: req ifFail
 		parse: codeToParse
 		class: cls
 		noPattern: pat
-		context: ctx
 		notifying: req
 		ifFail: block
