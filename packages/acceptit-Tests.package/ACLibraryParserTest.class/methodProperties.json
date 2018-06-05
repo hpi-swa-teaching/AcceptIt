@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compiledStepExample" : "jb 6/5/2018 20:52",
+		"setUp" : "jb 6/5/2018 20:26",
+		"stepExample" : "jb 6/5/2018 20:53",
+		"testItParsesAStep" : "jb 6/5/2018 20:49",
+		"testItParsesSomethingToAMethodNode" : "jb 6/5/2018 20:57" } }
