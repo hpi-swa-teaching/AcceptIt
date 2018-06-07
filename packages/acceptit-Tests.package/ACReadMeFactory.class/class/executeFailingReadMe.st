@@ -1,4 +1,4 @@
--- all --
+as yet unclassified
 executeFailingReadMe
 	self createUserStory.
 	self createLibrary.
