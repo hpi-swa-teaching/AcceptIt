@@ -9,10 +9,10 @@
 		"scenarioStringInList" : "ez 5/30/2018 16:04",
 		"selectCorrectScenario" : "ez 5/30/2018 16:05",
 		"setUp" : "ez 5/30/2018 17:02",
-		"tearDown" : "ez 5/30/2018 17:04",
-		"testDisplaysScenario" : "ez 5/30/2018 16:06",
-		"testDisplaysUserStory" : "jb 5/30/2018 19:14",
-		"testErroneousReadMeFails" : "ez 5/30/2018 16:08",
-		"testFailingReadMeFails" : "ez 5/30/2018 15:55",
-		"testReadMePasses" : "ez 5/30/2018 16:10",
-		"testReadMePassesAndThenFails" : "ez 5/30/2018 16:20" } }
+		"tearDown" : "jb 6/7/2018 10:00",
+		"testDisplaysScenario" : "jb 6/7/2018 10:01",
+		"testDisplaysUserStory" : "jb 6/7/2018 10:01",
+		"testErroneousReadMeFails" : "jb 6/7/2018 09:59",
+		"testFailingReadMeFails" : "jb 6/7/2018 10:00",
+		"testReadMePasses" : "jb 6/7/2018 10:00",
+		"testReadMePassesAndThenFails" : "jb 6/7/2018 10:00" } }

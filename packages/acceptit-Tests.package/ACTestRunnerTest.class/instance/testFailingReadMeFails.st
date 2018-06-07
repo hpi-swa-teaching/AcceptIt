@@ -8,3 +8,4 @@ testFailingReadMeFails
 	button click.
 	bar := self subject findByClass: PluggableTextMorphPlus.
 	self assert: Color yellow equals: bar color.
+	ACReadMeFactory tearDown.

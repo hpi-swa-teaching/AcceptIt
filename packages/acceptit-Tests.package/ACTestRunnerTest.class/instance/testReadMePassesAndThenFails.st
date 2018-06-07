@@ -10,3 +10,4 @@ testReadMePassesAndThenFails
 	ACReadMeFactory addFailingSteps.
 	button click.
 	self assert: Color yellow equals: bar color.
+	ACReadMeFactory tearDown.
