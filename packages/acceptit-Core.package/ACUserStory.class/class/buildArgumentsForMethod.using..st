@@ -5,5 +5,5 @@ buildArgumentsForMethod: aMethod using: aString
 	selector :=  (aMethod pragmas detect: [:pragma | pragma keyword = #step:]) arguments first.
 	^ (ACTranslator 
 		bindParametersInSelector: selector 
-		toValuesIn: aString withoutLeadingSubject withLeadingAuxiliaryNormalized)
+		toValuesIn: aString withLeadingAuxiliaryNormalized)
 		collect: [:assoc | assoc value]

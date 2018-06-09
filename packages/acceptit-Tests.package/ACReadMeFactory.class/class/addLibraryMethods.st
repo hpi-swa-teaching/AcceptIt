@@ -4,4 +4,4 @@ addLibraryMethods
 	library class compile: 'a: aBool
   a := aBool.' classified: 'accessing'.
 	library class compile: 'a
-  ^a' classified: 'accessing'.
+  ^a' classified: 'accessing'
