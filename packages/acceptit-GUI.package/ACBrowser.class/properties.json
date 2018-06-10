@@ -1,0 +1,15 @@
+{
+	"category" : "acceptit-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"categories",
+		"categoriesSelected" ],
+	"name" : "ACBrowser",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }
