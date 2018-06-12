@@ -37,9 +37,14 @@ I want to do some complicated calculations'
 withCategory: 'acceptitTest-calculator'
 ```
 
-3. Create a library by running the following code in the workspace:   
+3. Create a library like this:   
 ```smalltalk
-ACLibrary generateNewLibrary: #MySuperCalculator
+ACLibrary 
+	subclass: 'MySuperCalculatorTESTLibrary' asSymbol
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'AcceptitGenerated'
 ``` 
 4. Add a `libraries` method on class side to your user story class and make it return the class of it's library 
 
