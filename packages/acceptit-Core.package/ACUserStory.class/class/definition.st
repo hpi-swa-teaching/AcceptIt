@@ -1,6 +1,5 @@
 behavior-fileIn/Out
 definition
-
 	^ self == ACUserStory
 		ifTrue: [super definition]
 		ifFalse: [String streamContents: [:stream | |superklass|
