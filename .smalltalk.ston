@@ -6,14 +6,5 @@ SmalltalkCISpec {
       #load : 'Tests',
       #platforms : [ #squeak ]
     }
-  ],
-  #testing : {
-    #coverage : {
-      #categories : [ 
-			  'acceptit-GUI', 
-			  'acceptit-Core-Model', 
-			  'acceptit-Core-Compiler' 
-      ]
-    }
-  }
+  ]
 }
