@@ -2,7 +2,7 @@ accessing-ui
 findCategories
 	| visible |
 	visible := Set new.
-	self baseClass withAllSubclassesDo: [ :each |
+	self baseClass allSubclassesDo: [ :each |
 		each category ifNotNil: [ :category |
 			visible add: category ] ].
 	^ Array streamContents: [ :stream |

@@ -4,11 +4,15 @@
 		"open" : "ez 6/10/2018 15:29" },
 	"instance" : {
 		"baseClass" : "ez 6/10/2018 16:16",
-		"buildWith:" : "ez 6/10/2018 16:24",
+		"buildWith:" : "ez 6/12/2018 17:20",
 		"categoryListFrame" : "ez 6/10/2018 16:30",
-		"classList" : "ez 6/10/2018 16:34",
+		"classList" : "ez 6/12/2018 17:01",
 		"classListFrame" : "ez 6/10/2018 16:31",
+		"codePaneFrame" : "ez 6/12/2018 17:23",
 		"extent" : "ez 6/10/2018 15:26",
-		"findCategories" : "ez 6/10/2018 16:14",
+		"findCategories" : "ez 6/12/2018 17:17",
+		"findClassesForCategory" : "ez 6/12/2018 17:16",
 		"label" : "ez 6/10/2018 15:25",
-		"systemCategoryList" : "ez 6/10/2018 16:20" } }
+		"systemCategoryList" : "ez 6/10/2018 16:42",
+		"wantsAnnotationPane" : "ez 6/12/2018 17:22",
+		"wantsOptionalButtons" : "ez 6/12/2018 17:22" } }

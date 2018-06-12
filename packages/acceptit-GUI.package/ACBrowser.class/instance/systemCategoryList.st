@@ -1,3 +1,4 @@
 accessing-ui
 systemCategoryList
-	^self findCategories 
+
+	^ self findCategories
