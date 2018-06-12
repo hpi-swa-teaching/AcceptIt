@@ -1,3 +1,8 @@
 as yet unclassified
 createLibrary
-	library := ACLibrary generateNewLibrary: 'MySuperCalculatorTEST' asSymbol.
+	library := ACLibrary 
+		subclass: 'MySuperCalculatorTESTLibrary' asSymbol
+		instanceVariableNames: ''
+		classVariableNames: ''
+		poolDictionaries: ''
+		category: 'AcceptitGenerated'.

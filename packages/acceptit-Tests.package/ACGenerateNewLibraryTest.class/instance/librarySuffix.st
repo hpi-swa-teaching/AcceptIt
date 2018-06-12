@@ -1,4 +1,0 @@
-constants
-librarySuffix
-
-	^ 'Library'
