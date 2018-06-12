@@ -1,4 +1,0 @@
-constants
-categoryName
-	
-	^ 'AcceptItGenerated'
