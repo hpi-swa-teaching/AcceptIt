@@ -2,7 +2,7 @@ as yet unclassified
 addScenarioToUs
 		
 	userStory
-		compile: 'mvus
+		compile: 'm vus
 
 Given A is true
 When I do nothing
