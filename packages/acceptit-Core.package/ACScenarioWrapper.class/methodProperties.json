@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"forMethod:" : "topa 9/26/2010 21:30" },
+		"forMethod:" : "ez 6/20/2018 12:08" },
 	"instance" : {
 		"doesNotUnderstand:" : "topa 9/26/2010 21:30",
-		"initializeWithMethod:" : "topa 9/26/2010 21:31",
-		"messages" : "mp 6/7/2016 20:44",
-		"run:with:in:" : "topa 9/26/2010 21:32",
-		"theCompiledMethod" : "topa 9/26/2010 21:31" } }
+		"initializeWithMethod:" : "ez 6/20/2018 12:06",
+		"messages" : "ez 6/20/2018 11:40",
+		"run:with:in:" : "ez 6/20/2018 12:07",
+		"theCompiledMethod" : "ez 6/20/2018 12:07" } }
