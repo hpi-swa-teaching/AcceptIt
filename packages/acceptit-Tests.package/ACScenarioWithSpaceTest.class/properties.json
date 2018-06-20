@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"parser" ],
+		"userstory",
+		"scenarioMethod" ],
 	"name" : "ACScenarioWithSpaceTest",
 	"pools" : [
 		 ],
