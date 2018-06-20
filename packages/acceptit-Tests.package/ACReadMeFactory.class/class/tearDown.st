@@ -1,6 +1,6 @@
 as yet unclassified
 tearDown
-	(Smalltalk classNamed: ACUserStoryFactory userStoryTitleTrimmed) removeFromSystemUnlogged.
-	(Smalltalk classNamed: 'MySuperCalculatorTESTLibrary') removeFromSystemUnlogged.
+	userStory ifNotNil: [userStory removeFromSystemUnlogged].
+	library ifNotNil: [library removeFromSystemUnlogged].
 	SystemOrganization removeCategory: ACUserStoryFactory categoryName.
 	SystemOrganization removeEmptyCategories.
