@@ -3,9 +3,9 @@ testUserStoryInvalidTrailersMatch
 
 	|userStoryInvalidTrailers|
 	userStoryInvalidTrailers := 'A Title
-		In order to achieve something
 		As a role
-		I want to do something.
+		I want to do something
+		In order to achieve something.
 	
 		This is cool
 		'.

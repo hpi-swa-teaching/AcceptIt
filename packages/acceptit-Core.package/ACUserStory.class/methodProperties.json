@@ -10,7 +10,7 @@
 		"createConstant:forUserStory:withValue:" : "jb 5/24/2018 10:57",
 		"createNewVerbsMethodCache" : "topa 3/11/2011 13:41",
 		"createSubclass:withCategory:" : "jb 5/24/2018 11:49",
-		"createUserStory:withCategory:" : "jb 5/24/2018 11:51",
+		"createUserStory:withCategory:" : "jb 6/21/2018 00:42",
 		"createUserStoryClassFromDictionary:withCategory:" : "jb 5/24/2018 12:02",
 		"definition" : "jb 5/24/2018 11:09",
 		"isAbstract" : "topa 6/3/2010 13:23",
@@ -28,7 +28,7 @@
 		"tearDownUserStory" : "topa 4/27/2011 08:55",
 		"testSelectors" : "mp 4/4/2011 17:14:17.646",
 		"title" : "jb 5/24/2018 12:22",
-		"userStoryString" : "jb 5/24/2018 10:24" },
+		"userStoryString" : "jb 6/21/2018 00:58" },
 	"instance" : {
 		"configuration" : "topa 7/15/2010 09:30",
 		"configuration:" : "topa 2/14/2011 09:33",

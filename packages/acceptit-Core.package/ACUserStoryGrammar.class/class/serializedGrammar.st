@@ -4,7 +4,7 @@ serializedGrammar
 
 linebreak = "\n"
 
-means = (space | tabstop)* ("I want " | "I want to ") text "."?
+means = (space | tabstop)* ("I want " | "I want to ") text
 
 purpose = (space | tabstop)* "In order to " text
 
@@ -18,4 +18,4 @@ text = alnum+ (space | alnum)*
 
 title = (space | tabstop)* text
 
-userstory = title linebreak+ purpose linebreak role linebreak means}'
+userstory = title linebreak+ role linebreak means linebreak purpose "."?}'

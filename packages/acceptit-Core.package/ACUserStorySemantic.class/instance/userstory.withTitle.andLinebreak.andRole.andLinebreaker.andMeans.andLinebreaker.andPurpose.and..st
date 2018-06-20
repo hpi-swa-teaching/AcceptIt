@@ -1,9 +1,9 @@
 as yet unclassified
 userstory: aNode 
-withTitle: title andLinebreak: linebreaker1 
-andPurpose: purpose andLinebreaker: linebreaker2 
-andRole: role andLinebreaker: linebreak3 
-andMeans: means
+withTitle: title andLinebreak: linebreaker1
+andRole: role andLinebreaker: linebreaker2
+andMeans: means andLinebreaker: linebreaker3
+andPurpose: purpose and: dott
 
 	|aDictionary|
 	aDictionary := Dictionary new.

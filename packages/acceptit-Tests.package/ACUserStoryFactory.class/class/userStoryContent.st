@@ -1,6 +1,6 @@
 as yet unclassified
 userStoryContent
 	
-	^ 'In order to test my sophisticated calculator class
-	   As a developer
-	   I want to do some complicated calculations'
+	^ 'As a developer
+	I want to do some complicated calculations
+	In order to test my sophisticated calculator class'
