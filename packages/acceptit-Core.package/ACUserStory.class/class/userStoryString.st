@@ -3,6 +3,6 @@ userStoryString
 
 	^ String streamContents: [ :stream |
 		stream 
-			nextPutAll: 'In order to ', self purpose; crtab;
 			nextPutAll: 'As a ', self role; crtab;
-			nextPutAll: 'I want ', self means.]
+			nextPutAll: 'I want ', self means; crtab;
+			nextPutAll: 'In order to ', self purpose.]

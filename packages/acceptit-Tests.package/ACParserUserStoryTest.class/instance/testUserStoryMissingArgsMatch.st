@@ -3,8 +3,8 @@ testUserStoryMissingArgsMatch
 
 	|userStoryMissingArgs|
 	userStoryMissingArgs := 'A Title
-		In order to
 		As a
-		I want'.
+		I want
+		In order to'.
 	self shouldnt: [self match: userStoryMissingArgs with: #userstory].
 		

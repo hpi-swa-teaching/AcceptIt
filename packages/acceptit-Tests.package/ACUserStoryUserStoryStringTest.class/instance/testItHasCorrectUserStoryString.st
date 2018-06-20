@@ -1,3 +1,3 @@
 tests
 testItHasCorrectUserStoryString
-	self assert: self basicUserStoryWithoutTitle equals: self userStory userStoryString.
+	self assert: ACUserStoryFactory userStoryContent equals: self userStory userStoryString.
