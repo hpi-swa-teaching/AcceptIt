@@ -2,6 +2,7 @@ proxied protocol
 messages
 
 	| messages pt targetSubject parser|
+	self halt.
 	parser := self parserClass new.
 	messages := method messages.
 	targetSubject := method methodClass selector: method selector. "should be an ACUserStory"
