@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"categoryList" : "ez 6/20/2018 12:42",
+		"codePane" : "ez 6/21/2018 12:18",
+		"selectCategory:" : "ez 6/20/2018 14:14",
+		"selectUserStory:" : "ez 6/20/2018 14:14",
+		"setUp" : "ez 6/20/2018 12:34",
+		"tearDown" : "ez 6/20/2018 12:34",
+		"testItCreatesNewStoryWhenChangingTitle" : "ez 6/21/2018 13:00",
+		"testItDisplaysCategoriesContainingUserStories" : "ez 6/21/2018 10:02",
+		"testItDisplaysSimpleUserStoryDefinition" : "ez 6/21/2018 12:18",
+		"testItDisplaysUserStories" : "ez 6/21/2018 10:01",
+		"testItDoesNotDisplayCategoriesWithoutUserStories" : "ez 6/21/2018 10:42",
+		"userStoryList" : "ez 6/20/2018 12:59" } }
