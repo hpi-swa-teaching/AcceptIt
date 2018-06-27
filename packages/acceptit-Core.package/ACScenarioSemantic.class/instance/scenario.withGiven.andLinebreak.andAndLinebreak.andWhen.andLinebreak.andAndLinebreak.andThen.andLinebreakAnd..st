@@ -7,18 +7,23 @@ andAndLinebreak: and2
 andThen: aThenRule  
 andLinebreakAnd: and3
 
-	|return andResult1 andResult2 andResult3|
-	
+	|return givens whens thens andResult1 andResult2 andResult3|
 	return := OrderedCollection new.
-	return add: (self value: aGivenRule).
+	givens := OrderedCollection new.
+	givens add: (self value: aGivenRule).
 	self value: linebreak1.
 	andResult1 := self value: and1.
-	(andResult1 isNil) ifFalse: [return add: andResult1].
-	return add: (self value: aWhenRule).
+	andResult1 do: [:each| givens add: each].
+	return add: givens.
+	whens := OrderedCollection new.
+	whens add: (self value: aWhenRule).
 	self value: linebreak2.
 	andResult2 := self value: and2.
-	(andResult2 isNil) ifFalse: [return add: andResult2].
-	return add: (self value: aThenRule).
+	andResult2 do:[:each|whens add: each].
+	return add: whens.
+	thens := OrderedCollection new.
+	thens add: (self value: aThenRule).
 	andResult3 := self value: and3.
-	(andResult3 isNil) ifFalse: [return add: andResult3].
+	andResult3 do:[:each| thens add: each].
+	return add: thens.
 	^return

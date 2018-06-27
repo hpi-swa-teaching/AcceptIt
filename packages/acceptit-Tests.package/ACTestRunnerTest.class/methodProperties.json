@@ -14,5 +14,6 @@
 		"testDisplaysUserStory" : "jb 6/7/2018 10:01",
 		"testErroneousReadMeFails" : "jb 6/7/2018 09:59",
 		"testFailingReadMeFails" : "jb 6/7/2018 10:00",
+		"testMultipleAndsPass" : "JB 6/27/2018 11:27",
 		"testReadMePasses" : "jb 6/7/2018 10:00",
 		"testReadMePassesAndThenFails" : "jb 6/7/2018 10:00" } }

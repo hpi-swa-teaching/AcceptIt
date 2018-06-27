@@ -13,6 +13,7 @@
 		"testScenarioInvalidTrailersMatch" : "ez 4/24/2018 15:52",
 		"testScenarioMatch" : "ez 4/24/2018 15:53",
 		"testScenarioMatchAnd" : "ez 4/24/2018 15:53",
+		"testScenarioMatchMultipleAnd" : "JB 6/27/2018 01:46",
 		"testScenarioMissingName" : "ez 4/24/2018 15:53",
 		"testScenarioThen" : "mp 6/13/2016 09:11",
 		"testScenarioWhen" : "ez 4/24/2018 15:53" } }

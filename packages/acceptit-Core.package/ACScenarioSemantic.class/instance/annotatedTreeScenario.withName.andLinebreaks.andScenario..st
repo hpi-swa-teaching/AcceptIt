@@ -5,7 +5,6 @@ andLinebreaks: linebreaks
 andScenario: aScenario
 
 	|parseTree codeCollection|
-	
 	self currentLine: 1.
 	parseTree := OrderedCollection new.
 	parseTree add: #annotated. 
