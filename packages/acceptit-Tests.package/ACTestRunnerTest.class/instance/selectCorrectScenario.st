@@ -4,4 +4,3 @@ selectCorrectScenario
 	self classList click.
 	self filterScenarioList.
 	self scenarioList click.
-	self halt.
