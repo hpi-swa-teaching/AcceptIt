@@ -28,7 +28,7 @@ quote = "\''"
 
 quotedText = quote (alnum | space | tabstop | linebreak | "." | "," | "+" | "*" | "/" | "-")* quote
 
-scenario = givenRule linebreak andLinebreak? whenRule linebreak andLinebreak? thenRule linebreakAnd?
+scenario = givenRule linebreak andLinebreak* whenRule linebreak andLinebreak* thenRule linebreakAnd*
 
 space := " "
 

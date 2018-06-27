@@ -5,12 +5,14 @@
 		"addLibraryMethods" : "jb 5/29/2018 10:25",
 		"addLibraryToUs" : "6/16/2018 14:39:23",
 		"addScenarioToUs" : "jb 6/16/2018 14:41",
+		"addScenarioWithMultipleAndsToUs" : "JB 6/27/2018 11:26",
 		"addSteps" : "jb 5/29/2018 10:14",
 		"createLibrary" : "jb 6/13/2018 00:35",
 		"createUserStory" : "jb 5/29/2018 10:05",
 		"executeErroneousReadMe" : "jb 6/12/2018 17:38",
 		"executeFailingReadMe" : "jb 6/12/2018 17:39",
 		"executeReadMe" : "jb 6/12/2018 17:39",
+		"executeReadMeWithMultipleAnds" : "JB 6/27/2018 11:27",
 		"tearDown" : "jb 6/20/2018 21:05" },
 	"instance" : {
 		 } }
