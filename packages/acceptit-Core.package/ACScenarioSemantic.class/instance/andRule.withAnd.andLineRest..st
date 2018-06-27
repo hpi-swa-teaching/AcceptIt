@@ -5,6 +5,6 @@ andRule: aNode withAnd: when andLineRest: linerest
 	self lastRule: (self lastRule).
 	result := OrderedCollection new 
 		add: (self lastRule); 
-		add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: ''''''); 
-		add: (self currentLine); yourself.
+		add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: '''''');
+		yourself.
 	^ result

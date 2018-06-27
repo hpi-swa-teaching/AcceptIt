@@ -2,19 +2,20 @@
 	"class" : {
 		 },
 	"instance" : {
-		"andLinebreak:with:and:" : "JB 6/27/2018 11:09",
-		"andRule:withAnd:andLineRest:" : "JB 6/27/2018 11:09",
+		"andLinebreak:with:and:" : "JB 6/27/2018 12:55",
+		"andRule:withAnd:andLineRest:" : "JB 6/27/2018 13:20",
 		"annotatedTreeScenario:withName:andLinebreaks:andScenario:" : "JB 6/27/2018 11:09",
 		"buildCodeFrom:" : "mp 6/7/2016 01:21",
 		"currentLine" : "mp 6/7/2016 10:24",
 		"currentLine:" : "mp 6/6/2016 22:25",
 		"fullScenario:withName:andLinebreaks:andScenario:" : "JB 6/27/2018 11:10",
-		"givenRule:withGiven:andLineRest:" : "mp 7/4/2016 17:32",
+		"givenRule:withGiven:andLineRest:" : "JB 6/27/2018 13:18",
 		"lastRule" : "mp 5/26/2016 18:31",
 		"lastRule:" : "mp 5/26/2016 18:31",
 		"linebreak:with:" : "mp 6/7/2016 10:28",
 		"linebreakAnd:with:and:" : "JB 6/27/2018 11:15",
-		"scenario:withGiven:andLinebreak:andAndLinebreak:andWhen:andLinebreak:andAndLinebreak:andThen:andLinebreakAnd:" : "JB 6/27/2018 11:42",
-		"thenRule:withThen:andLineRest:" : "mp 7/4/2016 17:31",
+		"scenario:withGiven:andLinebreak:andAndLinebreak:andWhen:andLinebreak:andAndLinebreak:andThen:andLinebreakAnd:" : "JB 6/27/2018 13:22",
+		"statementsFor:and:" : "JB 6/27/2018 13:17",
+		"thenRule:withThen:andLineRest:" : "JB 6/27/2018 13:18",
 		"treeScenario:withName:andLinebreaks:andScenario:" : "JB 6/27/2018 11:10",
-		"whenRule:withWhen:andLineRest:" : "mp 7/4/2016 17:31" } }
+		"whenRule:withWhen:andLineRest:" : "JB 6/27/2018 13:18" } }
