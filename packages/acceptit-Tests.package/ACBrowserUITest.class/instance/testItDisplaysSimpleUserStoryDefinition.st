@@ -2,10 +2,6 @@ setUp and tearDown
 testItDisplaysSimpleUserStoryDefinition
 
 	| codePaneText expectedText | 
-	ACUserStory 
-		createUserStory: ACUserStoryFactory userStoryString
-		withCategory: ACUserStoryFactory categoryName.
-		
 	self selectCategory: ACUserStoryFactory categoryName.
 	self selectUserStory: ACUserStoryFactory userStoryTitleTrimmed.
 
@@ -15,6 +11,6 @@ testItDisplaysSimpleUserStoryDefinition
 			cr;
 			cr;
 			nextPutAll: ACUserStoryFactory userStoryContent].
-	codePaneText := (self submorphs first submorphs first) text asString.
+	codePaneText := (self subject submorphs first submorphs first submorphs first) text asString.
 	
 	self assert: expectedText equals: codePaneText.

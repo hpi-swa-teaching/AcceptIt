@@ -12,9 +12,12 @@ testItDoesNotDisplayCategoriesWithoutUserStories
 		category: categoryName.
 		
 	listSize := (self categoryList submorphs first submorphs first) getListSize.
-	listedCategoryNames := Collection new.
+	listedCategoryNames := Set new.
 	
 	1 to: listSize do: [:index |
 		listedCategoryNames add: ((self categoryList submorphs first submorphs first) getListItem: index)].
 	
 	self assert: false equals: (listedCategoryNames includes: categoryName).
+	
+	(Smalltalk classNamed: 'MyClass') removeFromSystemUnlogged.
+	SystemOrganization removeCategory: categoryName.

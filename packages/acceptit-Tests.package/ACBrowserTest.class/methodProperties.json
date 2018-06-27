@@ -4,5 +4,6 @@
 	"instance" : {
 		"browser" : "ez 6/27/2018 19:59",
 		"browser:" : "ez 6/27/2018 20:00",
-		"setUp" : "ez 6/27/2018 19:59",
-		"testFindCategories" : "ez 6/27/2018 19:59" } }
+		"setUp" : "ez 6/27/2018 22:53",
+		"tearDown" : "ez 6/27/2018 22:53",
+		"testFindCategories" : "ez 6/27/2018 22:58" } }
