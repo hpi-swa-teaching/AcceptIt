@@ -1,4 +1,4 @@
-setUp and tearDown
+as yet unclassified
 setUp
-	
-	self wantsToTest: ACBrowser open.
+
+	self browser: ACBrowser new.
