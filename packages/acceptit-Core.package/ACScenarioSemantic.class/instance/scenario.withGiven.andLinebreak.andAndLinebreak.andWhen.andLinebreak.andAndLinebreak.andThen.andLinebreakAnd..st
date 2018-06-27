@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 scenario: aNode 
 withGiven: aGivenRule andLinebreak: linebreak1 
 andAndLinebreak: givenAnds

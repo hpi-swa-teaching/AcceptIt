@@ -1,4 +1,4 @@
-as yet unclassified
+dictionary helpers
 buildCodeFrom: aDictionary
 
 	|code|

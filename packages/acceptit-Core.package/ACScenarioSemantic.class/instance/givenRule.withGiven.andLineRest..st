@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 givenRule: aNode withGiven: given andLineRest: linerest
 	
 	|result|

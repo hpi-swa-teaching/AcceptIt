@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 fullScenario:  aNode 
 withName: aName 
 andLinebreaks: linebreaks 

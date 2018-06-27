@@ -1,4 +1,4 @@
-as yet unclassified
+dictionary helpers
 statementsFor: aVerb and: ands
 
 	|statements andStatements|

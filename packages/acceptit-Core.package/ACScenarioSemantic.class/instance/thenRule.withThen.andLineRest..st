@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 thenRule: aNode withThen: then andLineRest: linerest
 	
 	|result|
