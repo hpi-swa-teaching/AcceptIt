@@ -1,9 +1,5 @@
 setUp and tearDown
 testItCreatesNewStoryWhenChangingTitle
-
-	ACUserStory 
-		createUserStory: ACUserStoryFactory userStoryString
-		withCategory: ACUserStoryFactory categoryName.
 		
 	self selectCategory: ACUserStoryFactory categoryName.
 	self selectUserStory: ACUserStoryFactory userStoryTitleTrimmed.
@@ -12,3 +8,5 @@ testItCreatesNewStoryWhenChangingTitle
 	self codePane submorphs first submorphs first editor accept.
 
 	self assert: false equals: ((Smalltalk classNamed: ('Abc', ACUserStoryFactory userStoryTitleTrimmed)) isNil).
+	
+	(Smalltalk classNamed: 'AbcACCalculatorUserStory') removeFromSystemUnlogged.
