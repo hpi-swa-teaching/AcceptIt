@@ -4,7 +4,7 @@
 		"open" : "ez 6/10/2018 15:29" },
 	"instance" : {
 		"baseClass" : "ez 6/10/2018 16:16",
-		"buildWith:" : "ez 6/21/2018 10:06",
+		"buildWith:" : "ez 6/27/2018 19:18",
 		"categoryListFrame" : "ez 6/10/2018 16:30",
 		"classDefinitionText" : "ez 6/20/2018 12:21",
 		"classList" : "ez 6/12/2018 17:01",
@@ -19,4 +19,5 @@
 		"label" : "ez 6/10/2018 15:25",
 		"systemCategoryList" : "ez 6/10/2018 16:42",
 		"wantsAnnotationPane" : "ez 6/12/2018 17:22",
-		"wantsOptionalButtons" : "ez 6/12/2018 17:22" } }
+		"wantsOptionalButtons" : "ez 6/12/2018 17:22",
+		"windowChildrensBuildedWith:" : "ez 6/27/2018 19:18" } }
