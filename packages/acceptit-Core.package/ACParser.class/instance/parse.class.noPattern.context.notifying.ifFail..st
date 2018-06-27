@@ -1,8 +1,6 @@
 parsing
 parse: sourceStream class: cls noPattern: pat context: ctx notifying: req ifFail: block 
 	
-	
-	
 	| codeToParse evaluator match|
 	evaluator := self grammar synthesizedAttribute: self semantic new.
 	match := self grammar match: (sourceStream contents) startingFrom: self startRule.      

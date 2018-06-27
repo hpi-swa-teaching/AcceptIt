@@ -5,6 +5,5 @@ thenRule: aNode withThen: then andLineRest: linerest
 	self lastRule: #then.
 	result := OrderedCollection new 
 		add: #then; add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: ''''''); 
-		add: (self currentLine); 
 		yourself.
 	^ result

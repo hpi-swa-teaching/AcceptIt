@@ -5,7 +5,7 @@ givenRule: aNode withGiven: given andLineRest: linerest
 	self lastRule: #given.
 	result := OrderedCollection new add: #given; 
 		add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: ''''''); 
-		add: (self currentLine); yourself.
+		yourself.
 	^ result
 	
  
