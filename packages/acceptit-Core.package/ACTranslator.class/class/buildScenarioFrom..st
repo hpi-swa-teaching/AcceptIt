@@ -5,7 +5,6 @@ buildScenarioFrom: aDictionary
 	
 	code := ((aDictionary at: #name) copyReplaceAll: (String space) with: ''), String cr,  String tab, '<scenario>'.
 	(aDictionary at: #codelines ) do: [ :verbStatements|
-		verbStatements do:[:line|
-			code := code, String cr, String tab, 'self ', line first asString, ': ''', ((line second) copyReplaceAll: '''' with: ''''''), '''.' 
-		]].
+		verbStatements do: [:line|
+			code := code , (self stepDictionaryToStepCodeLine: line)]].
 	^code

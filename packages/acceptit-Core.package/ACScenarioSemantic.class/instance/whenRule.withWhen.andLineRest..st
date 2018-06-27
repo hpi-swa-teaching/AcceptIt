@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 whenRule: aNode withWhen: when andLineRest: linerest
 	
 	|result|

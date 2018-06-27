@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 linebreakAnd: aNode with: linebreak  and: andRule
 	
 	self value: linebreak.

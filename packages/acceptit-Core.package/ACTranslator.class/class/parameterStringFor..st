@@ -1,4 +1,4 @@
-as yet unclassified
+helpers
 parameterStringFor: aString
 
 	^ String streamContents: [:stream |

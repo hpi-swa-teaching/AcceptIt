@@ -1,4 +1,4 @@
-as yet unclassified
+helpers
 buildSelectorPartsFromString: aString
 
 	^ Array streamContents: [:stream |	

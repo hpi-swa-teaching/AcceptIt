@@ -1,4 +1,4 @@
-as yet unclassified
+helpers
 bindParametersInCollection: aCollection toValuesIn: aString
 
 	|result runString|
