@@ -2,7 +2,5 @@ accessing
 selectorForString: aString prefixed: aSymbol
 
 	^ (aSymbol, 
-		aString 
-			withoutLeadingSubject 
-			withLeadingAuxiliaryNormalized 
+		aString
 			asCamelCase)  asLegalSelector asSymbol
