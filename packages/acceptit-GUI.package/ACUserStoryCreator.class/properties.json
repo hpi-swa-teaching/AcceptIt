@@ -1,0 +1,15 @@
+{
+	"category" : "acceptit-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"story",
+		"category" ],
+	"name" : "ACUserStoryCreator",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

@@ -13,4 +13,5 @@
 		"testItDisplaysSimpleUserStoryDefinition" : "ez 6/28/2018 01:04",
 		"testItDisplaysUserStories" : "ez 6/28/2018 00:58",
 		"testItDoesNotDisplayCategoriesWithoutUserStories" : "ez 6/28/2018 01:05",
+		"testItHasACreateNewUserStoryButton" : "ez 6/27/2018 23:10",
 		"userStoryList" : "ez 6/20/2018 12:59" } }
