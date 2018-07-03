@@ -10,6 +10,10 @@ windowChildrensBuildedWith: aBuilder
 			name: 'userStoryList';
 			frame: self classListFrame;
 			yourself);
+		add: ((self buildMessageListWith: aBuilder)
+			name: 'senarioPane';
+			frame: self senarioListFrame ;
+			yourself);
 		add: ((self buildCodePaneWith: aBuilder)
 			name: 'codePane';
 			frame: self codePaneFrame;

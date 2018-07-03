@@ -5,10 +5,10 @@
 	"instance" : {
 		"baseClass" : "ez 6/10/2018 16:16",
 		"buildWith:" : "ez 6/27/2018 19:18",
-		"categoryListFrame" : "ez 6/10/2018 16:30",
+		"categoryListFrame" : "Elias Maass 7/3/2018 17:07",
 		"classDefinitionText" : "ez 6/20/2018 12:21",
 		"classList" : "ez 6/12/2018 17:01",
-		"classListFrame" : "ez 6/10/2018 16:31",
+		"classListFrame" : "Elias Maass 7/3/2018 17:07",
 		"codePaneFrame" : "ez 6/12/2018 17:23",
 		"defineClass:notifying:" : "ez 6/21/2018 12:25",
 		"extent" : "ez 6/12/2018 17:36",
@@ -17,7 +17,8 @@
 		"getSimpleUserStoryDefinitionOf:" : "ez 6/12/2018 17:53",
 		"isModeStyleable" : "ez 6/20/2018 12:20",
 		"label" : "ez 6/10/2018 15:25",
+		"senarioListFrame" : "Elias Maass 7/3/2018 17:07",
 		"systemCategoryList" : "ez 6/10/2018 16:42",
 		"wantsAnnotationPane" : "ez 6/12/2018 17:22",
 		"wantsOptionalButtons" : "ez 6/12/2018 17:22",
-		"windowChildrensBuildedWith:" : "ez 6/27/2018 19:18" } }
+		"windowChildrensBuildedWith:" : "Elias Maass 7/3/2018 17:15" } }
