@@ -6,3 +6,5 @@ setUp
 	ACUserStory 
 		createUserStory: ACUserStoryFactory userStoryString
 		withCategory: ACUserStoryFactory categoryName.
+		
+	ACReadMeFactory executeReadMeWithNoSpaceInTitle.

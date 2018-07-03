@@ -6,3 +6,6 @@ tearDown
 	(Smalltalk classNamed: ACUserStoryFactory userStoryTitleTrimmed) removeFromSystemUnlogged.
 	SystemOrganization removeCategory: ACUserStoryFactory categoryName.
 	SystemOrganization removeEmptyCategories.
+	
+
+	ACReadMeFactory tearDown.
