@@ -10,6 +10,7 @@ compile: origCode in: cls classified: aCategory notifying: notify ifFail: failBl
 			]
 		ifTrue: [
 			translatedCode := origCode asString readStream.
+			match failure signal.
 			].	
 	self from: translatedCode class: cls notifying: notify.
 	^ Compiler new
