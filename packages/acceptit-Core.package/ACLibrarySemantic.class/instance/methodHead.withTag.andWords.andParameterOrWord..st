@@ -3,7 +3,6 @@ methodHead: aNode
 withTag: aTag 
 andWords: words 
 andParameterOrWord: parameterOrWord
-andLinebreak: linebreak
 
 |wordCollection parameterCollection tag returnDictionary|
 
