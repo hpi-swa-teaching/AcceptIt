@@ -8,4 +8,5 @@ testArgumentParsingWithSpecialCharacters
 
 	variableAssociations := ACTranslator bindParametersInSelector: selectorString toValuesIn: body.
 	
-	self should: [variableAssociations  = {':thing'->'potat:oe' . ':number'->'2 .'. ':name'->'f§§rt'} asOrderedCollection]. 
+	self assert: {':thing'->'potat:oe' . ':number'->'2 .'. ':name'->'f§§rt'} asOrderedCollection
+		equals: variableAssociations.
