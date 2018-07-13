@@ -4,6 +4,8 @@
 	"instance" : {
 		"categoryList" : "ez 6/20/2018 12:42",
 		"codePane" : "ez 6/21/2018 12:18",
+		"firstItemInCategoryList" : "JB 7/13/2018 21:44",
+		"firstItemInUserStoryList" : "JB 7/13/2018 21:45",
 		"selectCategory:" : "ez 6/20/2018 14:14",
 		"selectSenario:" : "Elias Maass 7/3/2018 17:22",
 		"selectUserStory:" : "ez 6/20/2018 14:14",
@@ -11,9 +13,9 @@
 		"setUp" : "Elias Maass 7/3/2018 18:14",
 		"tearDown" : "Elias Maass 7/3/2018 17:50",
 		"testItCreatesNewStoryWhenChangingTitle" : "ez 6/28/2018 00:58",
-		"testItDisplaysCategoriesContainingUserStories" : "ez 6/28/2018 00:59",
 		"testItDisplaysSenarioDefinition" : "Elias Maass 7/3/2018 18:16",
 		"testItDisplaysSimpleUserStoryDefinition" : "Elias Maass 7/3/2018 17:17",
-		"testItDisplaysUserStories" : "ez 6/28/2018 00:58",
+		"testItDisplaysCategoriesContainingUserStories" : "JB 7/13/2018 21:44",
+		"testItDisplaysUserStories" : "JB 7/13/2018 21:45",
 		"testItDoesNotDisplayCategoriesWithoutUserStories" : "ez 6/28/2018 01:05",
 		"userStoryList" : "ez 6/20/2018 12:59" } }
