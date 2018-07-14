@@ -1,6 +1,6 @@
 as yet unclassified
 createUserStory
 
-	userStory := ACUserStory
-								createUserStory: ACUserStoryFactory userStoryString 
-							    	withCategory: ACUserStoryFactory categoryName. 
+	userStory := ACCEPTIT
+							createUserStory: ACUserStoryFactory userStoryString 
+							withCategory: ACUserStoryFactory categoryName.

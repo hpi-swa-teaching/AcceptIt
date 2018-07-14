@@ -3,7 +3,7 @@ setUp
 	
 	self wantsToTest: ACBrowser open.
 	
-	ACUserStory 
+	ACCEPTIT 
 		createUserStory: ACUserStoryFactory userStoryString
 		withCategory: ACUserStoryFactory categoryName.
 		
