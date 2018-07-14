@@ -13,9 +13,9 @@
 		"setUp" : "JB 7/14/2018 14:35",
 		"tearDown" : "JB 6/27/2018 23:07",
 		"testItCreatesNewStoryWhenChangingTitle" : "ez 6/28/2018 00:58",
+		"testItDisplaysCategoriesContainingUserStories" : "JB 7/13/2018 21:44",
 		"testItDisplaysSenarioDefinition" : "Elias Maass 7/3/2018 18:16",
 		"testItDisplaysSimpleUserStoryDefinition" : "Elias Maass 7/3/2018 17:17",
-		"testItDisplaysCategoriesContainingUserStories" : "JB 7/13/2018 21:44",
 		"testItDisplaysUserStories" : "JB 7/13/2018 21:45",
 		"testItDoesNotDisplayCategoriesWithoutUserStories" : "ez 6/28/2018 01:05",
 		"userStoryList" : "ez 6/20/2018 12:59" } }
