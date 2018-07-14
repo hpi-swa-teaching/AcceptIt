@@ -5,5 +5,5 @@ testItParsesTrue
 	ACReadMeFactory executeReadMe.
 	userstory := (Smalltalk classNamed:'ACCalculatorUserStory') new.
 	method := userstory methodForVerb: #then andStep: 'I expect A to be true' .
-	self assert: 'true' equals: (ACUserStory buildArgumentsForMethod: method using: 'I expect A to be true') first.
+	self assert: 'true' equals: (userstory buildArgumentsForMethod: method using: 'I expect A to be true') first.
 	ACReadMeFactory tearDown.

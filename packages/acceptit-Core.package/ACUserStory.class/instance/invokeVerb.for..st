@@ -6,5 +6,5 @@ invokeVerb: verbSymbol for: aString
 	
 	(self shouldInvoke: method forVerb: verbSymbol andStep: aString)
 		ifTrue: [
-			args := self class buildArgumentsForMethod: method using: aString.
+			args := self buildArgumentsForMethod: method using: aString.
 			^ method valueWithReceiver: self arguments: {args}]

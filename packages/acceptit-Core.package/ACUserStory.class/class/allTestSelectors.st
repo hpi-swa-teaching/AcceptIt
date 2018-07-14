@@ -1,4 +1,4 @@
-accessing-test-api
+accessing
 allTestSelectors
 
 	^ (Pragma allNamed: #scenario in: self)

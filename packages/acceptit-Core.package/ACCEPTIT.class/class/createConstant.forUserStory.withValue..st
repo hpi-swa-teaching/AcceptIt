@@ -1,4 +1,4 @@
-user story creation
+as yet unclassified
 createConstant: constantName forUserStory: aUserStoryClass withValue: aString
 		
 	aUserStoryClass class 

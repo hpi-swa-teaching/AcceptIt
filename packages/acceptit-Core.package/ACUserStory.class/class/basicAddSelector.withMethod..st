@@ -1,4 +1,4 @@
-accessing method dictionary
+accessing
 basicAddSelector: selector withMethod: compiledMethod 
 
 	| methodToAdd |
