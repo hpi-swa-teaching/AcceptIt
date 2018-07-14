@@ -6,6 +6,5 @@ statementsFor: aVerb and: ands
 	statements := OrderedCollection new.
 	statements add: (self value: aVerb).
 	andStatements := self value: ands.
-	andStatements do: [:each| statements add: each].
-
+	statements addAll: andStatements.
 	^statements

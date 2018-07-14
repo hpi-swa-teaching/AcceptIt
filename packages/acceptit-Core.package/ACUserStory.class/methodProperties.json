@@ -39,7 +39,7 @@
 		"findLibraryForSelector:ifNone:" : "db 7/21/2010 15:01",
 		"given:" : "topa 9/24/2010 17:21",
 		"givenScenario:" : "topa 10/13/2010 16:46",
-		"initialize" : "db 10/24/2010 22:44",
+		"initialize" : "JB 7/14/2018 14:19",
 		"invokeVerb:for:" : "jb 6/9/2018 20:30",
 		"mapFromString:toStepMethodWithVerb:" : "JB 5/7/2018 17:25",
 		"methodForVerb:andStep:" : "topa 4/27/2011 11:56",
