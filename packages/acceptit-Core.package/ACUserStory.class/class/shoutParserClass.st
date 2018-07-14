@@ -1,6 +1,6 @@
 shoutcore-Parsing
 shoutParserClass
 
-	^ (self inheritsFrom: ACUserStory)
-		ifTrue: [ACUserStoryParser]
-		ifFalse: [super shoutParserClass].
+	^ (self class = ACUserStory class)
+		ifTrue: [super shoutParserClass]
+		ifFalse: [ACSHParserForScenario]

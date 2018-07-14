@@ -1,5 +1,7 @@
 parsing
 parseSelector: aStringOrText
-
+	
+	|translatedMethod|
 	tempString := aStringOrText.
-	^ aStringOrText asString lines first
+	translatedMethod := self translateCode: aStringOrText.
+	^ translatedMethod asString lines first

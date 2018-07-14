@@ -7,4 +7,4 @@ parseSelector: aString
 ' with: '
 '.
 	codeToParse := self translateCode: aString.
-	^self stdParser parseSelector: codeToParse 
+	^self stdParser parseSelector: codeToParse asString

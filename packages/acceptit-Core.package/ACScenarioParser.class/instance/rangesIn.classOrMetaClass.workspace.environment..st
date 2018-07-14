@@ -1,4 +1,4 @@
-parsing
+temporarily unused
 rangesIn: sourceString classOrMetaClass: aBehaviour workspace: aWorkspace  environment: anEnvironmentOrNil
 
 	| line |
