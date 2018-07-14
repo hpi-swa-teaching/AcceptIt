@@ -3,9 +3,10 @@
 		 },
 	"instance" : {
 		"buildCode:" : "mp 7/4/2016 16:52",
-		"compile:in:classified:notifying:ifFail:" : "jb 5/15/2018 13:51",
-		"compile:in:environment:notifying:ifFail:" : "JB 7/11/2018 16:59",
+		"compile:in:classified:notifying:ifFail:" : "JB 7/14/2018 14:51",
+		"compile:in:environment:notifying:ifFail:" : "JB 7/14/2018 14:51",
 		"compile:in:notifying:ifFail:" : "mp 6/29/2016 00:22",
 		"grammar" : "mp 6/29/2016 00:28",
 		"semantic" : "mp 6/29/2016 00:28",
-		"startRule" : "mp 6/29/2016 00:28" } }
+		"startRule" : "mp 6/29/2016 00:28",
+		"translateCode:" : "JB 7/14/2018 15:03" } }
