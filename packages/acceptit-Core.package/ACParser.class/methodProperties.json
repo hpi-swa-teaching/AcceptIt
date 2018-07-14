@@ -6,6 +6,7 @@
 		"encoderClass:" : "mp 5/31/2016 18:32",
 		"endOfLastToken" : "mp 5/31/2016 18:15",
 		"grammar" : "mp 5/31/2016 18:24",
+		"handleParsingError:with:" : "JB 7/14/2018 15:35",
 		"initialize" : "ms 5/9/2018 13:05",
 		"parse:class:" : "mp 5/31/2016 21:32",
 		"parse:class:noPattern:context:notifying:ifFail:" : "JB 7/14/2018 14:58",
@@ -16,4 +17,4 @@
 		"startRule" : "mp 5/31/2016 18:14",
 		"stdParser" : "mp 5/31/2016 18:10",
 		"stdParser:" : "mp 5/31/2016 18:10",
-		"translateCode:" : "JB 7/14/2018 15:03" } }
+		"translateCode:" : "JB 7/14/2018 15:35" } }
