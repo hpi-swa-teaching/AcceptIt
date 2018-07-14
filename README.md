@@ -61,9 +61,7 @@ mvus
 
 Given A is true
 When I do nothing
-Then I expect A to be trtrue
-```
-AND YES THE `trtrue` IS INTENTIONAL AND JUST A WEIRD WORKAROUND THE THEN-PARSER IS BUGGED ATM see issue #39
+Then I expect A to be true
 
 6. Add needed methods to the library like
 ```smalltalk
@@ -94,3 +92,5 @@ a
 ACTestRunner open
 ```
 
+Known Issues:
+1. Currently acceptit doesn't work with squot/git, we are working on a fix.
