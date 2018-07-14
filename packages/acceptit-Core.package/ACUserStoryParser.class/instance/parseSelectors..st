@@ -1,5 +1,5 @@
 parser-emulation
-parseSelector: aStringOrText
+parseSelectors: aStringOrText
 
 	tempString := aStringOrText.
 	^ aStringOrText asString lines first
