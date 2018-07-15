@@ -3,7 +3,7 @@ testStepdefMatchArg
 
 	|stepdef|
 	stepdef:= 
-	'(given) has :number opportunities
+	'given has :number opportunities
 	
 	^ self.'.
 	
