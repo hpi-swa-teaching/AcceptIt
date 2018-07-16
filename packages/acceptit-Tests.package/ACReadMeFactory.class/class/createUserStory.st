@@ -1,6 +1,6 @@
 as yet unclassified
 createUserStory
 
-	userStory := ACCEPTIT
+	ACReadMeFactory userStory: (ACCEPTIT
 							createUserStory: ACUserStoryFactory userStoryString 
-							withCategory: ACUserStoryFactory categoryName.
+							withCategory: ACUserStoryFactory categoryName).
