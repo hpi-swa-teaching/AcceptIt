@@ -1,0 +1,5 @@
+constants
+role
+	<generated>
+
+	^'developer'
