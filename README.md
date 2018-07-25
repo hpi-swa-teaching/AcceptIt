@@ -93,4 +93,9 @@ Notes:
 
 
 # Demovideo
+
 [![Watch Demovideo here: https://youtu.be/BvTDBnQaMbs](https://img.youtube.com/vi/BvTDBnQaMbs/0.jpg)](https://youtu.be/BvTDBnQaMbs)
+
+# Development and Progress
+
+For an update on the project state and the progress we made check out our [project documentation](https://github.com/hpi-swa-teaching/AcceptIt/wiki/Acceptit---project-development-from-April-2018-to-July-2018)
