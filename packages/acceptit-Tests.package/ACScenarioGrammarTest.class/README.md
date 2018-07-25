@@ -1,0 +1,1 @@
+Tests if multiple and statements work for a scenario.

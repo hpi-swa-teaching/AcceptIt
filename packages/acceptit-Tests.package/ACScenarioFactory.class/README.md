@@ -1,0 +1,1 @@
+An ACScenarioFactory provides scenario strings to be used in tests.

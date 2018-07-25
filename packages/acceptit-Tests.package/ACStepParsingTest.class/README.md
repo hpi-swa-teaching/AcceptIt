@@ -1,0 +1,1 @@
+Tests how a step is parsed inside the userstory. 

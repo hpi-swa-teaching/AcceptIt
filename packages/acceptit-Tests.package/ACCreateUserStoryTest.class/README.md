@@ -1,0 +1,1 @@
+tests if a userstory class is created

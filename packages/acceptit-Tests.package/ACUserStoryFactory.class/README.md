@@ -1,0 +1,1 @@
+The ACUserStoryFactory provides userstory strings to be used in tests.

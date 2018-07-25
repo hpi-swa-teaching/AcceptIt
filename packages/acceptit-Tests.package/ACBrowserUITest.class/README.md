@@ -1,0 +1,1 @@
+An acceptance level UI test for the ACBrowser
