@@ -1,5 +1,0 @@
-constants
-role
-	<generated>
-
-	^'developer'

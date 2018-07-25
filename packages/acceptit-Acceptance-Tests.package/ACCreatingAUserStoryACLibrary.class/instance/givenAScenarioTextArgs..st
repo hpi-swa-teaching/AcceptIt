@@ -1,6 +1,6 @@
 steps - AddScenarioToUserStories
 (given) a scenario text
-	ACCreatingAUserStoryLibrary scenarioText:
+	ACCreatingAUserStoryACLibrary scenarioText:
 'AddScenariosToUserStory
 
 Given a user story

@@ -1,5 +1,0 @@
-constants
-title
-	<generated>
-
-	^'ACRunAcceptanceTest'

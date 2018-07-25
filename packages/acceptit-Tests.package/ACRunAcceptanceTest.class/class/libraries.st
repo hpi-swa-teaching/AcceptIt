@@ -1,3 +1,0 @@
-constants
-libraries 
-	^ {ACRunAcceptanceTestLibrary}
