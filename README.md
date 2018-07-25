@@ -91,6 +91,7 @@ ACBrowser open
 Notes:
 1. All Libraries have to end with ACLibrary and all UserStories have to end with ACStory. Otherwise everything will work fine but you will not be able to commit your stories with Squot.
 
+For further acceptance test examples check out our acceptit-Acceptance-Test package for tests testing acceptit.
 
 # Demovideo
 
