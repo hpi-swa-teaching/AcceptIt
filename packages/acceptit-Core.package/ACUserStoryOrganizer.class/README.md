@@ -1,0 +1,1 @@
+I organize classes but actually nobody knows why I exist. If you delete me something bad happens. TODO: Figure out what this does and comment it here or find a more describing way.

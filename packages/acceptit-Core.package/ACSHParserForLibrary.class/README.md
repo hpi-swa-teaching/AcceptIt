@@ -1,0 +1,1 @@
+An ACSHParserForLibrary a Styling Parser for library Methods. Custom code needs custom highlighting. This one adapts the normal highlighting to allow (given) (when) and (then) at the start of method names.

@@ -1,0 +1,1 @@
+An ACUserStorySemantic parses an userstory to a dictionary that can be used to generate a userstory class.

@@ -1,0 +1,1 @@
+An ACLibrarySemantic parses an OhmMatchResult of a stepdefinition to a Dictionary that can be used to build Smalltalk code.

@@ -1,0 +1,1 @@
+An ACScenarioSemantic parses an OhmMatchResult of a Scenario to a Dictionary that can be used to generate smalltalkcode.

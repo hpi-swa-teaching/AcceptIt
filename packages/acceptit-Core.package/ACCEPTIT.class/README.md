@@ -1,0 +1,1 @@
+ACCEPTIT is the interface to users. I am used to generate userstory classes.
