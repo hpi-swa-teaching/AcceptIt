@@ -2,8 +2,7 @@ as yet unclassified
 testFailingReadMeFails
 	|bar button|
 	ACReadMeFactory executeFailingReadMe.
-	self classList click.
-	self scenarioList click.
+	self selectCorrectScenario.
 	button := self subject findByLabel: 'Run Selected'.
 	button click.
 	bar := self subject findByClass: PluggableTextMorphPlus.
