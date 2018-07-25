@@ -1,4 +1,4 @@
 ohm-s
 grammar
 
-	self subclassResponsibility
+	self subclassResponsibility.

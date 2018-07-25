@@ -1,5 +1,6 @@
 as yet unclassified
 serializedGrammar
+
 ^ 'AcceptitLibraryGrammar <: BaseGrammar {
 
 addParameter = space parameter

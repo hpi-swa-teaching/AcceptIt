@@ -1,4 +1,4 @@
 parsing
 annotatedTree: aString
 
-	^ self parse: aString withRule: self annotatedRule
+	^self parse: aString withRule: self annotatedRule

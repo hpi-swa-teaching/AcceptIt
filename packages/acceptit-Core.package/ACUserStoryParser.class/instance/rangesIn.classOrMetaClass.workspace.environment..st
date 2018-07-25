@@ -4,4 +4,4 @@ rangesIn: sourceString classOrMetaClass: aBehaviour workspace: aWorkspace  envir
 	| line |
 	sourceString lines ifEmpty: [^{}].
 	line := sourceString lines first.
-	^ { SHRange start: 1 end: line size type: #patternKeyword }
+	^{ SHRange start: 1 end: line size type: #patternKeyword }

@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"buildCode:" : "mp 7/4/2016 16:52",
-		"compile:in:classified:notifying:ifFail:" : "JB 7/14/2018 14:51",
+		"buildCode:" : "ms 7/25/2018 17:30",
+		"compile:in:classified:notifying:ifFail:" : "ms 7/25/2018 17:14",
 		"compile:in:environment:notifying:ifFail:" : "JB 7/14/2018 14:51",
-		"compile:in:notifying:ifFail:" : "mp 6/29/2016 00:22",
-		"grammar" : "mp 6/29/2016 00:28",
-		"handleParsingError:with:" : "JB 7/14/2018 15:45",
-		"semantic" : "mp 6/29/2016 00:28",
-		"startRule" : "mp 6/29/2016 00:28",
-		"translateCode:" : "JB 7/14/2018 15:45" } }
+		"compile:in:notifying:ifFail:" : "ms 7/25/2018 17:15",
+		"grammar" : "ms 7/25/2018 17:15",
+		"handleParsingError:with:" : "ms 7/25/2018 17:16",
+		"semantic" : "ms 7/25/2018 17:17",
+		"startRule" : "ms 7/25/2018 17:17",
+		"translateCode:" : "ms 7/25/2018 17:17" } }

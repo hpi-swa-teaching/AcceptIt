@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"atEndOfLine" : "mp 7/12/2016 23:50",
+		"atEndOfLine" : "ms 7/25/2018 17:27",
 		"inScanLine" : "mp 7/12/2016 23:50",
 		"inScanLine:" : "mp 7/12/2016 23:49",
 		"initialize" : "mp 7/12/2016 23:49",
 		"isEndOfLine:" : "mp 7/12/2016 23:49",
 		"parseMessagePattern" : "JB 7/14/2018 18:42",
-		"scanLine" : "mp 7/12/2016 23:49",
+		"scanLine" : "ms 7/25/2018 17:10",
 		"scanWhitespace" : "mp 7/12/2016 23:48" } }

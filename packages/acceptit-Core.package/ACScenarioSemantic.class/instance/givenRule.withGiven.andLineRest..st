@@ -6,6 +6,6 @@ givenRule: aNode withGiven: given andLineRest: linerest
 	result := OrderedCollection new add: #given; 
 		add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: ''''''); 
 		yourself.
-	^ result
+	^result
 	
  

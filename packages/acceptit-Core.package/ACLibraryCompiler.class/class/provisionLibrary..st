@@ -4,6 +4,7 @@ provisionLibrary: aString
 	"Note from Jascha: Can probably be removed"
 	
 	| newLibrary |
+	self flag: #refactor.
 	newLibrary  := Object 
 						subclass: aString asSymbol 
 						instanceVariableNames: '' 

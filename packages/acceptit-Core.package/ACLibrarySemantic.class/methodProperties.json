@@ -4,11 +4,11 @@
 	"instance" : {
 		"addParameter:withSpace:andParameter:" : "mp 5/30/2016 19:55",
 		"addWord:withSpace:andWord:" : "mp 5/30/2016 20:38",
-		"buildCodeFrom:" : "JB 7/13/2018 21:48",
+		"buildCodeFrom:" : "ms 7/25/2018 17:05",
 		"given:with:and:and:" : "JB 7/25/2018 14:56",
 		"method:withHead:with:andBody:" : "JB 7/4/2018 11:08",
 		"methodBody:withBody:" : "JB 7/4/2018 11:09",
-		"methodHead:withTag:andWords:andParameterOrWord:" : "JB 7/4/2018 10:58",
+		"methodHead:withTag:andWords:andParameterOrWord:" : "ms 7/25/2018 17:06",
 		"tag:with:" : "mp 5/30/2016 17:23",
-		"then:with:and:and:" : "JB 7/25/2018 14:57",
+		"then:with:and:and:" : "ms 7/25/2018 17:06",
 		"when:with:and:and:" : "JB 7/25/2018 14:57" } }

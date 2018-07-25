@@ -7,5 +7,5 @@ whenRule: aNode withWhen: when andLineRest: linerest
 		add: #when; 
 		add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: '''''');
 		yourself.
-	^ result
+	^result
 	

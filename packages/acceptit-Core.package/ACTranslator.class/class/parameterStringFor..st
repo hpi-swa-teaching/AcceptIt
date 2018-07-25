@@ -1,7 +1,7 @@
 helpers
 parameterStringFor: aString
 
-	^ String streamContents: [:stream |
+	^String streamContents: [:stream |
 		(aString findTokens: $:) allButFirst do: [:sub |
 			stream nextPut: $:;
 				nextPutAll: (sub upTo: $ );

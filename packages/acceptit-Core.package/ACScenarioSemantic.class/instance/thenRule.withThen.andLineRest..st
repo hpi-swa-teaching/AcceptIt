@@ -6,4 +6,4 @@ thenRule: aNode withThen: then andLineRest: linerest
 	result := OrderedCollection new 
 		add: #then; add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: ''''''); 
 		yourself.
-	^ result
+	^result

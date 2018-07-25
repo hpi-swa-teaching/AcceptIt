@@ -3,7 +3,7 @@ parse: sourceStream class: cls noPattern: pat context: ctx notifying: req ifFail
 	
 	| codeToParse |
 	codeToParse := self translateCode: sourceStream.
-	^ self stdParser 
+	^self stdParser 
 		parse: codeToParse
 		class: cls
 		noPattern: pat

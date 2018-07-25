@@ -1,3 +1,4 @@
 parser-emulation
 evaluator
-	^ self grammar synthesizedAttribute: self semantic new
+
+	^self grammar synthesizedAttribute: self semantic new

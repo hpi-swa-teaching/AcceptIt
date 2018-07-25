@@ -15,6 +15,6 @@ bindParametersInCollection: aCollection toValuesIn: aString
 			result add: parameter  -> var]
 		value: (aCollection at: i)
 		value: (aCollection at: i + 1)
-		value: (aCollection at: i + 2)]	.
+		value: (aCollection at: i + 2)].
 
-	^ result
+	^result
