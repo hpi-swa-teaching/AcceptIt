@@ -2,5 +2,7 @@ setUp and tearDown
 setUp
 	|createdUserStory|
 	super setUp.
-	createdUserStory := ACUserStory createUserStory: ACUserStoryFactory userStoryString withCategory: self categoryName.
+	createdUserStory := ACCEPTIT 
+									createUserStory: ACUserStoryFactory userStoryString 
+									withCategory: self categoryName.
 	self userStory: createdUserStory.

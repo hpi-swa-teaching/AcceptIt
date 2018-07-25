@@ -8,15 +8,15 @@ addWord = space word
 
 anyText = any*
 
-given = "(" "given" ")"
+given = "given"
 
-linebreak = "\n"
+linebreak = "\n" | "\r" | "\f" | "\x0C" | "\x0D" | "\x0A" | "\u000A" | "\u000C" | "\u000D"
 
-method = methodHead methodBody
+method = methodHead (linebreak methodBody)?
 
 methodBody = anyText
 
-methodHead = tag (addWord)+ (addParameter | addWord)* linebreak
+methodHead = tag (addWord)+ (addParameter | addWord)*
 
 parameter = ":" word
 
@@ -26,8 +26,8 @@ tab = "\t"
 
 tag = given | when | then
 
-then = "(" "then" ")"
+then = "then"
 
-when = "(" "when" ")"
+when = "when"
 
 word = letter+}'

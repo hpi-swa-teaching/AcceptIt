@@ -1,4 +1,4 @@
-api-libraries
+api
 libraries
 	"The list of acceptit libraries to use which implement the respective scenario steps.
 	

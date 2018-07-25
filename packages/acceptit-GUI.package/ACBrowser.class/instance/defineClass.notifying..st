@@ -1,7 +1,7 @@
 building
 defineClass: defString notifying: aController
 
-	ACUserStory 
+	ACCEPTIT
 		createUserStory: defString
 		withCategory: self selectedSystemCategory.
 

@@ -1,6 +1,7 @@
 as yet unclassified
 testMultipleAnds
-"This only tests if the semantic throws exceptions so far"
-	|match|
+	
+	|match parsedDictionary|
 	match := ACScenarioGrammar match: self scenarioStringWithMultipleAnds startingFrom: #fullScenario.
-	self assert: self dictionaryString equals: ((ACScenarioGrammar synthesizedAttribute: ACScenarioSemantic new) value: match) asString.
+	parsedDictionary := (ACScenarioGrammar synthesizedAttribute: ACScenarioSemantic new) value: match.
+	self assert: self dictionaryString equals: parsedDictionary asString.
