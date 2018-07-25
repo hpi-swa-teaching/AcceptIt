@@ -1,4 +1,4 @@
-temporarily unused
+parsing
 parseSelector: aString
 
 	| codeToParse anotherString|

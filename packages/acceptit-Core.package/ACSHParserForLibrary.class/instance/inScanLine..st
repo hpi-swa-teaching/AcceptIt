@@ -1,4 +1,4 @@
-as yet unclassified
+method-highlighting
 inScanLine: aBoolean
 
 	inScanLine := aBoolean 

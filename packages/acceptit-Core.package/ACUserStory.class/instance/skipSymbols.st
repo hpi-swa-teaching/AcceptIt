@@ -1,4 +1,4 @@
-as yet unclassified
+running
 skipSymbols
 		
 	^ skipSymbols ifNil: [skipSymbols := IdentitySet new]

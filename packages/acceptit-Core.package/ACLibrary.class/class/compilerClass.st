@@ -1,4 +1,4 @@
-compiling
+parsing hooks
 compilerClass
 
 	^ACLibraryCompiler 

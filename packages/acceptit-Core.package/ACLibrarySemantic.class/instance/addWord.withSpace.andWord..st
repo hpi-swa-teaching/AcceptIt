@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 addWord: aNode withSpace: aSpace andWord: aWord
 
 	|word|

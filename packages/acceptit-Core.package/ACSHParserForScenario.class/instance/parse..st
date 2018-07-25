@@ -1,3 +1,3 @@
-as yet unclassified
+parsing-emulation
 parse: isAMethod
 	^true

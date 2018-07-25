@@ -1,4 +1,4 @@
-as yet unclassified
+acceptit tests
 setTestCaseFailedFor: aTestCase
 
 	self setStepStatus: #failed for: aTestCase.

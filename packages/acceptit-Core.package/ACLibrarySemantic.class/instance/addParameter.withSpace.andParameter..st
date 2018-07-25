@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 addParameter: aNode withSpace: aSpace andParameter: aParameter
 
 	|parameter|

@@ -1,4 +1,4 @@
-as yet unclassified
+private
 createConstant: constantName forUserStory: aUserStoryClass withValue: aString
 		
 	aUserStoryClass class 

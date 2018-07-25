@@ -1,4 +1,4 @@
-as yet unclassified
+internal verbs
 withoutThenDo: aBlock
 
 	^ (self skipSymbols includes: #then)
