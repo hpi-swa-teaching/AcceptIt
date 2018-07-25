@@ -1,0 +1,1 @@
+An ACBrowser is a GUI for browsing user stories and scenarios. Is a subclass of the default Browser.

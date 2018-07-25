@@ -1,13 +1,12 @@
 building
 buildStepsWith: aBuilder
 
-	^ aBuilder pluggableACListSpec new
+	^ aBuilder pluggableListSpec new
 		model: self;
 		name: 'stepList';
 		list: #stepList;
 		menu: #stepMenu:;
 		getIndex: #stepSelected;
 		setIndex: #stepSelected:;
-		getListItemColor: #stepColorAt:;
 		doubleClick: #browseToStepImplementation
 		yourself.
