@@ -1,0 +1,1 @@
+Converts Stepdefinitions to smalltalkcode before calling the normal Parser.

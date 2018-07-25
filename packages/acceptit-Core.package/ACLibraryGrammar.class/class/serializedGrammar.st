@@ -3,32 +3,32 @@ serializedGrammar
 
 ^ 'AcceptitLibraryGrammar <: BaseGrammar {
 
+method = methodHead (linebreak methodBody)?
+
+methodHead = tag (addWord)+ (addParameter | addWord)*
+
+methodBody = anyText
+
+linebreak = "\n" | "\r" | "\f" | "\x0C" | "\x0D" | "\x0A" | "\u000A" | "\u000C" | "\u000D"
+
+tag = given | when | then
+
 addParameter = space parameter
 
 addWord = space word
 
-anyText = any*
-
-given = "(" + "given" + ")"
-
-linebreak = "\n" | "\r" | "\f" | "\x0C" | "\x0D" | "\x0A" | "\u000A" | "\u000C" | "\u000D"
-
-method = methodHead (linebreak methodBody)?
-
-methodBody = anyText
-
-methodHead = tag (addWord)+ (addParameter | addWord)*
-
 parameter = ":" word
 
-space := " "
-
-tab = "\t"
-
-tag = given | when | then
+given = "(" + "given" + ")"
 
 then = "(" + "then" +")"
 
 when = "(" + "when" +")"
 
-word = letter+}'
+word = letter+
+
+space := " "
+
+tab = "\t"
+
+anyText = any* }'

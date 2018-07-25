@@ -1,0 +1,1 @@
+An ACSHParserForScenario is a styling Parser for Scenarios. Custom Code needs custom highlighting. This one just makes everything black on white.

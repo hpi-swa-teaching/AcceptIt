@@ -1,0 +1,1 @@
+An ACTranslator translates dictionaries to smalltalkcode for UserStories, scenarios and step definitions.

@@ -1,0 +1,1 @@
+An ACScenarioWrapper is a wrapper class for Scenario methods.
