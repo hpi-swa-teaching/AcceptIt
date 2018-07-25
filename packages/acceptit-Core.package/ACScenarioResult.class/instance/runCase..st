@@ -1,4 +1,4 @@
-as yet unclassified
+test interface
 runCase: aTestCase
 	| testCasePassed |
 	testCasePassed := true.

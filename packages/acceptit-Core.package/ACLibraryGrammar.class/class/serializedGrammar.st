@@ -1,6 +1,5 @@
 as yet unclassified
 serializedGrammar
-
 ^ 'AcceptitLibraryGrammar <: BaseGrammar {
 
 method = methodHead (linebreak methodBody)?

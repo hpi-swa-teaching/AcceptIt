@@ -1,4 +1,4 @@
-as yet unclassified
+acceptit tests
 setStepStatus: lastStatus for: aTestCase
 
 	| currentStep statuus |

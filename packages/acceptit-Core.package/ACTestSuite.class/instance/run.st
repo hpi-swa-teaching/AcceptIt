@@ -1,4 +1,4 @@
-as yet unclassified
+test interface
 run
 	| result |
  	result := ACScenarioResult new.

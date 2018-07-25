@@ -1,4 +1,4 @@
-as yet unclassified
+parsing hooks
 shoutParserClass
 
 	^ (self class = ACLibrary class)

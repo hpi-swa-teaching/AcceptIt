@@ -1,4 +1,4 @@
-as yet unclassified
+acceptit tests
 stepStatus
 
 	stepStatus ifNil: [self stepStatus: Dictionary new].

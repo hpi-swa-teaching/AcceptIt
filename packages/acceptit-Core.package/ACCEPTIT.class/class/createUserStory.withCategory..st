@@ -1,4 +1,4 @@
-as yet unclassified
+userstory creation
 createUserStory: aStory withCategory: aCategory 
 
 	|propertyDictionary|

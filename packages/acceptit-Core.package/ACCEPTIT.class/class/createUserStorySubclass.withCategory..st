@@ -1,4 +1,4 @@
-as yet unclassified
+private
 createUserStorySubclass: aName withCategory: aCategory
 
 	^ACUserStory subclass: aName asSymbol

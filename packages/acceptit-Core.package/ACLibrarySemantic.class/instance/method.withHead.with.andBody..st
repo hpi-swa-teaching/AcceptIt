@@ -1,4 +1,4 @@
-as yet unclassified
+ohm interface
 method: aNode withHead: aHead with: linebreak andBody: aBody
 
 	|headDictionary|
