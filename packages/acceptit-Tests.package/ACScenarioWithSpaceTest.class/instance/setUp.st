@@ -1,8 +1,8 @@
-as yet unclassified
+setUp and tearDown
 setUp 
 
 	ACReadMeFactory createUserStory.
-	ACReadMeFactory addScenarioToUs.
+	ACReadMeFactory addScenarioToUserStory.
 	userstory := Smalltalk classNamed: 'ACCalculatorUserStory'.
 	scenarioMethod := userstory compiledMethodAt: #mvus.
 	

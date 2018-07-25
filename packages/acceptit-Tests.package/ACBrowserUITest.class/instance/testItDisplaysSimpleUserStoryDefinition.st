@@ -1,4 +1,4 @@
-setUp and tearDown
+tests
 testItDisplaysSimpleUserStoryDefinition
 
 	| codePaneText expectedText | 

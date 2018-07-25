@@ -1,4 +1,4 @@
-as yet unclassified
+userstory constants
 userStoryTitleTrimmed
 	
 	^ ACUserStoryFactory userStoryTitle copyReplaceAll: ' ' with: ''

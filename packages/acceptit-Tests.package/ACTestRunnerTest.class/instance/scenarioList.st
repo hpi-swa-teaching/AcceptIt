@@ -1,3 +1,3 @@
-as yet unclassified
+accessing-ui
 scenarioList
 	^ self subject findByName: 'scenarioList'

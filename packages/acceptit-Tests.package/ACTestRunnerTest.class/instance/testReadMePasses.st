@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReadMePasses
 	|bar button|
 	ACReadMeFactory executeReadMe.

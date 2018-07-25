@@ -1,4 +1,4 @@
-setUp and tearDown
+tests
 testItDisplaysUserStories
 
 	self selectCategory: ACUserStoryFactory categoryName.

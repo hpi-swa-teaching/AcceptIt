@@ -1,4 +1,4 @@
-setUp and tearDown
+tests
 testItCreatesNewStoryWhenChangingTitle
 		
 	self selectCategory: ACUserStoryFactory categoryName.

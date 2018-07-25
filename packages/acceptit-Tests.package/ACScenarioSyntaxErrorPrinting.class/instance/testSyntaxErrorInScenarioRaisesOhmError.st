@@ -1,5 +1,7 @@
-as yet unclassified
+tests
 testSyntaxErrorInScenarioRaisesOhmError
 	
-	self should: [ACScenarioCompiler new compile: self erroneousScenario  in: nil notifying: nil ifFail: [nil]]
-		raise: OhmMatchFailure.
+	|compiler scenario|
+	compiler := ACScenarioCompiler new.
+	scenario := ACScenarioFactory erroneousScenario.
+	self should: [compiler compile: scenario in: nil notifying: nil ifFail: [nil]] raise: OhmMatchFailure.

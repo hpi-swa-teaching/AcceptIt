@@ -1,4 +1,4 @@
-as yet unclassified
+tearDown
 tearDown
 	userStory ifNotNil: [userStory removeFromSystemUnlogged].
 	library ifNotNil: [library removeFromSystemUnlogged].

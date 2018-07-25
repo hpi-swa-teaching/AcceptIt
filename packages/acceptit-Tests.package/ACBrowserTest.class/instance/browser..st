@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 browser: anACBrowser
 
  	browser := anACBrowser.

@@ -1,3 +1,3 @@
-setUp and tearDown
+accessing-ui
 userStoryList
 	^ self subject findByName: 'userStoryList'

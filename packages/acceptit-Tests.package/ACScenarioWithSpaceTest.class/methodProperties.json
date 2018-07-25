@@ -2,6 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "jb 6/20/2018 21:01",
+		"setUp" : "ez 7/25/2018 18:04",
 		"tearDown" : "jb 6/20/2018 20:57",
 		"testItAllowsScenariosWithSpacesInTItle" : "jb 6/20/2018 21:00" } }

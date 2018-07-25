@@ -2,5 +2,4 @@
 	"class" : {
 		 },
 	"instance" : {
-		"erroneousScenario" : "ms 7/5/2018 15:35",
-		"testSyntaxErrorInScenarioRaisesOhmError" : "JB 7/14/2018 15:48" } }
+		"testSyntaxErrorInScenarioRaisesOhmError" : "ez 7/25/2018 18:29" } }

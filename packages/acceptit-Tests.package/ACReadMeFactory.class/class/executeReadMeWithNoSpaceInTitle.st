@@ -1,9 +1,9 @@
-as yet unclassified
+execution
 executeReadMeWithNoSpaceInTitle
 	self createUserStory.
 	self createLibrary.
 	self addLibraryMethods.
 	self addSteps.
-	self addLibraryToUs.
-	self addScenarioToUsWithNoSpaceInTitle.
+	self addLibraryToUserStory.
+	self addScenarioWithNoSpaceInTitleToUserStory.
 	

@@ -1,16 +1,16 @@
-setUp and tearDown
+tests
 testItDisplaysSenarioDefinition
 
 	| codePaneText expectedText | 
 	self selectCategory: ACUserStoryFactory categoryName.
 	self selectUserStory: ACUserStoryFactory userStoryTitleTrimmed.
-	self selectSenario: ACSenarioFactory senarioNameTrimmed.
+	self selectSenario: ACScenarioFactory senarioNameTrimmed.
 	expectedText := String streamContents: [:stream | 
 		stream
-			nextPutAll: ACSenarioFactory senarioNameTrimmed;
+			nextPutAll: ACScenarioFactory senarioNameTrimmed;
 			cr;
 			cr;
-			nextPutAll: ACSenarioFactory senarioContent].
+			nextPutAll: ACScenarioFactory senarioContent].
 	codePaneText := (self subject submorphs first submorphs first submorphs first) text asString.
 	self assert: expectedText equals: codePaneText.
 	

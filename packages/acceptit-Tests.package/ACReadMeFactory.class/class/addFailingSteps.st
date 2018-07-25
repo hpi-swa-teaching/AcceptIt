@@ -1,4 +1,4 @@
-as yet unclassified
+extending
 addFailingSteps
 	library compile: '(given) A is :aBool
   MySuperCalculatorTESTLibrary a: aBool.' classified: 'steps'.

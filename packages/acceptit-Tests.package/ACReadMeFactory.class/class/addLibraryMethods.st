@@ -1,4 +1,4 @@
-as yet unclassified
+extending
 addLibraryMethods
 	library class addInstVarName: 'a'.
 	library class compile: 'a: aBool

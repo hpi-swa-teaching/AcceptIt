@@ -1,4 +1,4 @@
-as yet unclassified
+userstory constants
 userStoryTitle
 	
 	^'AC Calculator User Story'
