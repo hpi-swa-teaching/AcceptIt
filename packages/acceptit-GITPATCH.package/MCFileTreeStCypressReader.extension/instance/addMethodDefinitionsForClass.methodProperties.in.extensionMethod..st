@@ -1,4 +1,4 @@
-*acceptit-Core
+*acceptit-GITPATCH
 addMethodDefinitionsForClass: className methodProperties: methodProperties in: entries extensionMethod: extensionMethod
     entries
         do: [ :entry |
@@ -16,11 +16,14 @@ addMethodDefinitionsForClass: className methodProperties: methodProperties in: e
                                     | category source timestamp selector |
                                     category := fileStream nextLine.
                                     source := fileStream upToEnd.
+
 						selector := self methodSelectorFor: source.
-						(('*ACLibrary' match: className) or: className = 'ACRunAcceptanceTestLibrary' )
+						"workaround for acceptit classes"
+						('*ACLibrary' match: className )
 							ifTrue:[	selector := ACLibraryParser new parseSelector: source ].
-						(( '*ACStory' match: className) or: className = 'ACRunAcceptanceTest')
+						( '*ACStory' match: className)
 							ifTrue:[	selector := ACScenarioParser new parseSelector: source ].
+								
                                     timestamp := methodProperties
                                         at:
                                             (classIsMeta
