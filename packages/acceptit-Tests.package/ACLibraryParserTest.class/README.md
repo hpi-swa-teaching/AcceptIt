@@ -1,0 +1,1 @@
+Tests if steps are parsed to a method node correctly.

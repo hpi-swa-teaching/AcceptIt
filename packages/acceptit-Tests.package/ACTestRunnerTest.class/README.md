@@ -1,0 +1,1 @@
+Tests functionality inside the ACTestRunner. These tests are acceptance level and similar ones can be found in the acceptit-Acceptance-Tests package which are written with acceptit itself.

@@ -1,3 +1,1 @@
-An ACArgumentParsingTest is xxxxxxxxx.
-
-Instance Variable
+Tests if parsing works with special characters.

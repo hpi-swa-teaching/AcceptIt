@@ -1,6 +1,6 @@
 tests
 testItParsesTrue
-"This is ugly and method should just be a mock object but mokcing Pragmas seems to be pretty difficult so this will have to do for now"
+"This is ugly and method should just be a mock object but mokcing Pragmas isn't very easy. So this test has some overhead"
 	|userstory method|
 	ACReadMeFactory executeReadMe.
 	userstory := (Smalltalk classNamed:'ACCalculatorUserStory') new.

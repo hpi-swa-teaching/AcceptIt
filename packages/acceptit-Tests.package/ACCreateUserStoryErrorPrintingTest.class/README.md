@@ -1,0 +1,1 @@
+Tests if correct error is thrown when wrong syntax is entered.
