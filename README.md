@@ -81,10 +81,16 @@ Now we Mock the functionality of our calculator because it doesn't actually exis
 ACTestRunner open
 ```
 
+9. Browse and edit created user stories and scenarios in the ACBrowser
+```smalltalk
+ACBrowser open
+```
+
+![acbrowser_screenshot](https://user-images.githubusercontent.com/19290349/43227887-54b2d674-9060-11e8-98fb-3629b049d565.png)
+
 Notes:
 1. All Libraries have to end with ACLibrary and all UserStories have to end with ACStory. Otherwise everything will work fine but you will not be able to commit your stories with Squot.
 
 
 # Demovideo
 [![Watch Demovideo here: https://youtu.be/BvTDBnQaMbs](https://img.youtube.com/vi/BvTDBnQaMbs/0.jpg)](https://youtu.be/BvTDBnQaMbs)
-
