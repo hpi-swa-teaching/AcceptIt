@@ -8,5 +8,4 @@ buildStepsWith: aBuilder
 		menu: #stepMenu:;
 		getIndex: #stepSelected;
 		setIndex: #stepSelected:;
-		doubleClick: #browseToStepImplementation
 		yourself.
