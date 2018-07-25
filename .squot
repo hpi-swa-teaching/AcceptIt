@@ -1,5 +1,6 @@
 OrderedDictionary {
 	'packages\/BaselineOfAcceptIt.package' : #SquotCypressCodeSerializer,
+	'packages\/acceptit-Acceptance-Tests.package' : #SquotCypressCodeSerializer,
 	'packages\/acceptit-Core.package' : #SquotCypressCodeSerializer,
 	'packages\/acceptit-GUI.package' : #SquotCypressCodeSerializer,
 	'packages\/acceptit-Tests.package' : #SquotCypressCodeSerializer

@@ -1,0 +1,3 @@
+helpers
+scenarioTitleTrimed
+	^ ACCreatingAUserStoryACLibrary trimedTitle: ACCreatingAUserStoryACLibrary scenarioText

@@ -1,5 +1,5 @@
-as yet unclassified
-ValidUserStoryIs Green
+scenarios
+ValidUserStoryIsGreen
 
 Given a user story with valid scenario and steps
 When the test is executed

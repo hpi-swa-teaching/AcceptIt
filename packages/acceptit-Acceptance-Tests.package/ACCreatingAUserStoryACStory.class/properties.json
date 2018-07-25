@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Acceptance-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACCreatingAUserStoryACStory",
+	"pools" : [
+		 ],
+	"super" : "ACUserStory",
+	"type" : "normal" }
