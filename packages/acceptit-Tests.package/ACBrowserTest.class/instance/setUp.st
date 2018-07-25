@@ -3,6 +3,6 @@ setUp
 
 	self browser: ACBrowser new.
 	
-	ACUserStory 
+	ACCEPTIT 
 		createUserStory: ACUserStoryFactory userStoryString 
 		withCategory: ACUserStoryFactory categoryName.

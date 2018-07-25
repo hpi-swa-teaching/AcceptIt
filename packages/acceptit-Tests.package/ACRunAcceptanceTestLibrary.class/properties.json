@@ -1,0 +1,15 @@
+{
+	"category" : "acceptit-Tests",
+	"classinstvars" : [
+		"validUserStory",
+		"testResult" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACRunAcceptanceTestLibrary",
+	"pools" : [
+		 ],
+	"super" : "ACLibrary",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "acceptit-Core-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inScanLine" ],
+	"name" : "ACSHParserForScenario",
+	"pools" : [
+		 ],
+	"super" : "SHParserST80",
+	"type" : "normal" }

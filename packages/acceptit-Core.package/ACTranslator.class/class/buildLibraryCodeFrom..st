@@ -33,7 +33,9 @@ buildLibraryCodeFrom: aDictionary
 		bodyCode := bodyCode,  ':', parameter value, ' '. 
 		].	 
 	((aDictionary at: #parameters) isEmpty  )ifFalse: [bodyCode := bodyCode, '| '].
-	bodyCode := bodyCode, (aDictionary at: #body), ']', String cr,  String tab,  String tab, 'valueWithPossibleArgs: privateArgsCollection asArray'.
+	bodyCode := bodyCode, (aDictionary at: #body), ']',
+	 String cr,  String tab,  String tab,
+	 'valueWithPossibleArgs: privateArgsCollection asArray'.
 
 	^headCode, tagCode, bodyCode  
 	 

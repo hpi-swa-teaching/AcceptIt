@@ -1,9 +1,15 @@
 as yet unclassified
 provisionLibrary: aString
 	"like ACLibrary generateFromClass: but thinner."
-	| newLibrary |
-	newLibrary  := Object subclass: aString asSymbol instanceVariableNames: '' classVariableNames: '' poolDictionaries: '' category: 'Generated'.
+	"Note from Jascha: Can probably be removed"
 	
+	| newLibrary |
+	newLibrary  := Object 
+						subclass: aString asSymbol 
+						instanceVariableNames: '' 
+						classVariableNames: '' 
+						poolDictionaries: '' 
+						category: 'AcceptitGenerated'.
 	{ 
 	'parserClass
 

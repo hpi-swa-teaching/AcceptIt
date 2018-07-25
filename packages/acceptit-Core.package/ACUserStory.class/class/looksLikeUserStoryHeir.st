@@ -1,4 +1,4 @@
-as yet unclassified
+behavior-compiling
 looksLikeUserStoryHeir
 	"During recompilation of the ACUserStory class, all of
 	#==, #inheritsFrom:, or #isKindOf: will fail, so we have to rely

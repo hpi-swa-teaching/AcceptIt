@@ -9,7 +9,7 @@
 	"instance" : {
 		"arrayForParseTree:" : "topa 3/11/2011 17:29",
 		"baseClass" : "db 7/19/2010 15:14",
-		"browseToStepImplementation" : "mp 6/28/2016 23:54",
+		"browseToStepImplementation" : "JB 7/14/2018 14:14",
 		"buildClassesWith:" : "ez 5/30/2018 15:27",
 		"buildScenariosWith:" : "ez 5/30/2018 15:27",
 		"buildStepsWith:" : "ez 5/30/2018 15:28",
@@ -17,7 +17,7 @@
 		"classAt:put:" : "db 7/21/2010 17:39",
 		"classSelected:" : "db 7/21/2010 17:18",
 		"findClassesForCategories:" : "db 7/21/2010 15:56",
-		"findScenariosForClasses:" : "topa 9/23/2010 12:20",
+		"findScenariosForClasses:" : "JB 7/14/2018 14:17",
 		"initialize" : "db 7/21/2010 15:33",
 		"label" : "db 7/19/2010 18:29",
 		"reset" : "db 10/5/2010 05:24",

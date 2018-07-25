@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"addUserStoryConstantsToClass:fromDictionary:" : "JB 7/14/2018 14:30",
+		"createConstant:forUserStory:withValue:" : "JB 7/14/2018 14:29",
+		"createUserStory:withCategory:" : "JB 7/14/2018 14:28",
+		"createUserStoryClassFromDictionary:withCategory:" : "JB 7/14/2018 14:29",
+		"createUserStorySubclass:withCategory:" : "JB 7/14/2018 14:29" },
+	"instance" : {
+		 } }
