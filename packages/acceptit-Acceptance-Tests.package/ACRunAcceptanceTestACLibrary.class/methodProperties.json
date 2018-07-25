@@ -5,6 +5,7 @@
 		"validUserStory" : "ms 6/22/2018 02:58",
 		"validUserStory:" : "ms 6/22/2018 02:57" },
 	"instance" : {
-		"givenAUserStoryWithValidScenarioAndStepsArgs:" : "ms 6/22/2018 03:01",
+		"givenAUserStoryWithValidScenarioAndStepsArgs:" : "ms 7/25/2018 16:31",
+		"tearDown" : "ms 7/25/2018 16:27",
 		"thenTheResultShouldBeGreenArgs:" : "JB 7/25/2018 15:57",
 		"whenTheTestIsExecutedArgs:" : "JB 7/25/2018 15:57" } }
