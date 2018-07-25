@@ -32,7 +32,7 @@ ACCEPTIT createUserStory:
 'MySickCalculatorACStory
 As a enthusiastic Squeak developer
 I want to add Integers
-In order to calculated sums.'
+In order to calculate sums.'
 withCategory: 'Sick-Calculator-Tests'
 ```
 
