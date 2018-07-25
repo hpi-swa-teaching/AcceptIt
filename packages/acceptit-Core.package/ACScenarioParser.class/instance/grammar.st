@@ -1,3 +1,4 @@
 ohm-s
 grammar
-	^ ACScenarioGrammar
+
+	^ACScenarioGrammar

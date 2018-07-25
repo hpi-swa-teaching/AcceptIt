@@ -7,4 +7,4 @@ andRule: aNode withAnd: when andLineRest: linerest
 		add: (self lastRule); 
 		add: (linerest interval contents withBlanksTrimmed replaceAll: '''' with: '''''');
 		yourself.
-	^ result
+	^result

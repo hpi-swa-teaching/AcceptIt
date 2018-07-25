@@ -1,7 +1,9 @@
 as yet unclassified
 buildCodeFrom: aDictionary
 
+
 	|headCode tagCode bodyCode|
+		self flag: #refactor.
 	headCode := aDictionary at: #tag.
 	(aDictionary at: #words) do: [ :word|
 		|tempWord|

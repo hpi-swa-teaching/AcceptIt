@@ -1,6 +1,7 @@
 as yet unclassified
 scanLine
 
+	self flag: #refactor.
 	self inScanLine: true.
 	
 	sourcePosition := currentTokenSourcePosition.

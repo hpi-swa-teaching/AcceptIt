@@ -1,4 +1,4 @@
 ohm-s
 semantic
 
-	self subclassResponsibility
+	self subclassResponsibility.

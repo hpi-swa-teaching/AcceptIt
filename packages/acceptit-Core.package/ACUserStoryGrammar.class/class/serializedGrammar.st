@@ -1,6 +1,6 @@
 as yet unclassified
 serializedGrammar
-^ 'AcceptitUserstoryGrammar <: BaseGrammar {
+^'AcceptitUserstoryGrammar <: BaseGrammar {
 
 linebreak = "\n"
 

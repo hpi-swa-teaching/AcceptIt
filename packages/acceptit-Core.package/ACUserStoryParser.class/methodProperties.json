@@ -3,13 +3,15 @@
 		 },
 	"instance" : {
 		"buildCode:" : "mp 7/4/2016 16:22",
-		"endOfLastToken" : "mp 6/22/2016 10:19",
-		"evaluator" : "jb 5/24/2018 11:27",
+		"endOfLastToken" : "ms 7/25/2018 17:24",
+		"evaluator" : "ms 7/25/2018 17:24",
 		"grammar" : "mp 6/28/2016 23:47",
 		"handleParsingError:with:" : "JB 7/14/2018 15:41",
-		"matchStory:" : "jb 5/24/2018 11:28",
-		"parseSelectors:" : "JB 7/14/2018 18:14",
-		"parseStoryToDictionary:" : "jb 6/21/2018 12:38",
-		"rangesIn:classOrMetaClass:workspace:environment:" : "mp 6/22/2016 10:23",
+		"matchStory:" : "ms 7/25/2018 17:24",
+		"parseSelectors:" : "ms 7/25/2018 17:25",
+		"parseStoryToDictionary:" : "ms 7/25/2018 17:08",
+		"rangesIn:classOrMetaClass:workspace:environment:" : "ms 7/25/2018 17:26",
 		"semantic" : "mp 6/28/2016 23:50",
-		"startRule" : "mp 5/31/2016 18:37" } }
+		"startRule" : "mp 5/31/2016 18:37",
+		"tempString" : "ms 7/25/2018 17:26",
+		"tempString:" : "ms 7/25/2018 17:25" } }

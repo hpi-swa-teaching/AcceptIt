@@ -1,4 +1,4 @@
 translation
 buildCode: aParsingResult
 
-	self subclassResponsibility
+	self subclassResponsibility.

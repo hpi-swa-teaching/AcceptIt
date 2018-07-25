@@ -1,7 +1,7 @@
 helpers
 buildSelectorPartsFromString: aString
 
-	^ Array streamContents: [:stream |	
+	^Array streamContents: [:stream |	
 		"extract the parameters (start with : )"
 		(aString findTokens: $:) withIndexDo: [:e :i |
 			i ~= 1 

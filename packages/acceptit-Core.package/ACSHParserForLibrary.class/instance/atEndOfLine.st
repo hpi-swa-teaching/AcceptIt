@@ -1,5 +1,4 @@
 as yet unclassified
 atEndOfLine
 
-
-	^ self isEndOfLine: currentTokenFirst
+	^self isEndOfLine: currentTokenFirst

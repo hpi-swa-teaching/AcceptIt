@@ -11,4 +11,4 @@ andLinebreakAnd: thenAnds
 		add: (self statementsFor: aGivenRule and: givenAnds);
 		add: (self statementsFor: aWhenRule and: whenAnds);
 		add: (self statementsFor: aThenRule and: thenAnds);
-		yourself.
+		yourself

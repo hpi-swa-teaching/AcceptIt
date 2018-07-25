@@ -1,4 +1,4 @@
 ohm-s
 startRule
 
-	self subclassResponsibility
+	self subclassResponsibility.
