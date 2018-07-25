@@ -1,9 +1,9 @@
 # AcceptIt 
 
-Branch  | Travis CI  | Code Coverage |
-------- | ---------- | ------------- |
+Branch  | Travis CI  |
+------- | ---------- |
 master  | [![Build Status](https://travis-ci.org/hpi-swa-teaching/AcceptIt.svg?branch=master)](https://travis-ci.org/hpi-swa-teaching/AcceptIt) | |
-develop | [![Build Status](https://travis-ci.org/hpi-swa-teaching/AcceptIt.svg?branch=develop)](https://travis-ci.org/hpi-swa-teaching/AcceptIt) | [![Coverage Status](http://coveralls.io/repos/github/hpi-swa-teaching/AcceptIt/badge.png?branch=develop)](https://coveralls.io/github/hpi-swa-teaching/AcceptIt) |
+develop | [![Build Status](https://travis-ci.org/hpi-swa-teaching/AcceptIt.svg?branch=develop)](https://travis-ci.org/hpi-swa-teaching/AcceptIt) |
 
 # Installation  
 
@@ -24,73 +24,62 @@ Metacello new
 
 # Usage
 
-1. Choose a class to test like for example "MySuperCalculator" You can also use the ACReadMeFactory to execute exactly the here described steps.
+1. Choose a class to test like for example "MySickCalculator".
 
 2. Create a user story by running the following code in the workspace:  
 ```smalltalk
-ACUserStory createUserStory:
-'AC Calculator User Story
-As a developer
-I want to do basic calculus (add, subtract, multiply, devide)
-In order to determine the result of some formula'
-withCategory: 'acceptitTest-calculator'
+ACCEPTIT createUserStory:
+'MySickCalculatorACStory
+As a enthusiastic Squeak developer
+I want to add Integers
+In order to calculated sums.'
+withCategory: 'Sick-Calculator-Tests'
 ```
 
 3. Create a library like this:   
 ```smalltalk
-ACLibrary 
-	subclass: 'MySuperCalculatorTESTLibrary' asSymbol
-	instanceVariableNames: ''
+ACLibrary subclass: #MySickACLibrary
+	instanceVariableNames: 'result'
 	classVariableNames: ''
 	poolDictionaries: ''
-	category: 'AcceptitGenerated'
+	category: 'Sick-Calculator-Tests'
 ``` 
 4. Add a `libraries` method on class side to your user story class and make it return the class of it's library 
 
-```
+```smalltalk
 libraries
-
-  ^ {MySuperCalculatorLibrary}
+	^{MySickACLibrary}
 
 ```
 
 5. write the test scenario in your user story
 ```
-minimalExampleUS
+Add 1 and 1
 
-Given A is true
-When I do nothing
-Then I expect A to be true
+Given my sick calculator
+When I add 1 and 1
+Then I expect the result to be 2
 ```
+
+Now we Mock the functionality of our calculator because it doesn't actually exist.
 
 6. Add needed methods to the library like
 ```smalltalk
-(given) A is :aBool
-  MySuperCalculatorLibrary a: aBool.
-```
-  
-```smalltalk
-(when) I do nothing
-
+(given) my sick calculator
 ```
 ```smalltalk
-(then) I expect A to be :aBool
-	self assert: [MySuperCalculatorLibrary a = aBool].
-```
-7. Add the according methods on class side (also add an instance variable `a` on class side):
-```smalltalk
-a: aBool
-  a := aBool.
+(when) I add :anInt and :anotherInt
+	result := anInt + anotherInt.
 ```
 ```smalltalk
-a
-  ^a
+(then) I expect the result to be :anInteger
+	self assert: anInteger equals: result.
 ```
 
-8. Run the Test-Runner
+8. To test our new Story run the Test-Runner
 ```smalltalk
 ACTestRunner open
 ```
 
-Known Issues:
-1. Currently acceptit doesn't work with squot/git, we are working on a fix.
+Notes:
+1. All Libraries have to end with ACLibrary and all UserStories have to end with ACStory. Otherwise everything will work fine but you will not be able to commit your stories with Squot.
