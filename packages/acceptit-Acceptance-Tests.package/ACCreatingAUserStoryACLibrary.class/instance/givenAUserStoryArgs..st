@@ -1,5 +1,5 @@
 steps - AddScenarioToUserStories
 (given) a user story
-	ACCreatingAUserStoryLibrary createdUserstory: 
-		(ACUserStory createUserStory: ACCreatingAUserStoryLibrary userstoryText 
-			withCategory: ACCreatingAUserStoryLibrary category)
+	ACCreatingAUserStoryACLibrary createdUserstory: 
+		(ACCEPTIT createUserStory: ACCreatingAUserStoryACLibrary userstoryText 
+			withCategory: ACCreatingAUserStoryACLibrary category)

@@ -1,4 +1,4 @@
 as yet unclassified
 (when) the test is executed
-	ACRunAcceptanceTestLibrary testResult: (ACReadMeFactory userStory run: #mvus).
+	ACRunAcceptanceTestACLibrary testResult: (ACReadMeFactory userStory run: #mvus).
 	ACReadMeFactory tearDown.
