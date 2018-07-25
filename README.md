@@ -61,6 +61,7 @@ minimalExampleUS
 Given A is true
 When I do nothing
 Then I expect A to be true
+```
 
 6. Add needed methods to the library like
 ```smalltalk
