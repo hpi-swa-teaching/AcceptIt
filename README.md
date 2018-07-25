@@ -86,7 +86,7 @@ ACTestRunner open
 ACBrowser open
 ```
 
-![acbrowser_screenshot](https://user-images.githubusercontent.com/19290349/43227887-54b2d674-9060-11e8-98fb-3629b049d565.png)
+<img src="https://user-images.githubusercontent.com/19290349/43227887-54b2d674-9060-11e8-98fb-3629b049d565.png" alt="alt text" width="540" height="369">
 
 Notes:
 1. All Libraries have to end with ACLibrary and all UserStories have to end with ACStory. Otherwise everything will work fine but you will not be able to commit your stories with Squot.
