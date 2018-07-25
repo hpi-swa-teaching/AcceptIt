@@ -1,4 +1,4 @@
-setUp and tearDown
+helper-ui
 selectSenario: aSenario
 
 		self senarioList sendKeys: aSenario.

@@ -1,3 +1,3 @@
-setUp and tearDown
+accessing-ui
 senarioList
 	^ self subject findByName: 'senarioPane'

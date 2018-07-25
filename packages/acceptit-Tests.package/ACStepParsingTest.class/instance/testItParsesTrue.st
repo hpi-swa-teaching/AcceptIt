@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testItParsesTrue
 "This is ugly and method should just be a mock object but mokcing Pragmas seems to be pretty difficult so this will have to do for now"
 	|userstory method|

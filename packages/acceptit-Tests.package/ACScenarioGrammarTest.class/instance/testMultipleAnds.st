@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testMultipleAnds
 	
 	|match parsedDictionary|

@@ -1,5 +1,5 @@
-as yet unclassified
-addScenarioToUsWithNoSpaceInTitle
+extending
+addScenarioWithNoSpaceInTitleToUserStory
 		
 	userStory
 		compile: 'mvus

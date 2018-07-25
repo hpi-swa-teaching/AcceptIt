@@ -1,9 +1,9 @@
-as yet unclassified
+execution
 executeReadMe
 	self createUserStory.
 	self createLibrary.
 	self addLibraryMethods.
 	self addSteps.
-	self addLibraryToUs.
-	self addScenarioToUs.
+	self addLibraryToUserStory.
+	self addScenarioToUserStory.
 	

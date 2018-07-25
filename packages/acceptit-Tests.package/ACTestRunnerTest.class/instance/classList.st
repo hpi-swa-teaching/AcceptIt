@@ -1,3 +1,3 @@
-as yet unclassified
+accessing-ui
 classList
 	^ self subject findByName: 'classList'

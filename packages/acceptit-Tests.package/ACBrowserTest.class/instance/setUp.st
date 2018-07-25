@@ -1,4 +1,4 @@
-as yet unclassified
+setUp and tearDown
 setUp
 
 	self browser: ACBrowser new.

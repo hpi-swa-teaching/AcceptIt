@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 senarioContent
 	^'Given A is true
 When I do nothing

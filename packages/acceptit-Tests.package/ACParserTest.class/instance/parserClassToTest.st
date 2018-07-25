@@ -1,4 +1,3 @@
 helpers
 parserClassToTest
-
 	self subclassResponsibility

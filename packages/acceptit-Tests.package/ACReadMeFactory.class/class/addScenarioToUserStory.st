@@ -1,5 +1,5 @@
-as yet unclassified
-addScenarioToUs
+extending
+addScenarioToUserStory
 		
 	userStory
 		compile: 'm vus

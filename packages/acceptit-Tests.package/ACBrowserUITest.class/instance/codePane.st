@@ -1,4 +1,4 @@
-setUp and tearDown
+accessing-ui
 codePane
 	
 	^ self subject findByName: 'codePane'

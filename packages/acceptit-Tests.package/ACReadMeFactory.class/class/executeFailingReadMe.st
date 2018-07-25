@@ -1,9 +1,9 @@
-as yet unclassified
+execution
 executeFailingReadMe
 	self createUserStory.
 	self createLibrary.
 	self addLibraryMethods.
 	self addFailingSteps.
-	self addLibraryToUs.
-	self addScenarioToUs.
+	self addLibraryToUserStory.
+	self addScenarioToUserStory.
 	

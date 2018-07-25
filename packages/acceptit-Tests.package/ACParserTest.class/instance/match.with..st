@@ -1,4 +1,3 @@
 helpers
 match: aString with: aRule
-	
-	^ self match: aString with: aRule withArgs: #()
+	^self match: aString with: aRule withArgs: #()

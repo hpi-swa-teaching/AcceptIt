@@ -1,3 +1,3 @@
-as yet unclassified
+setUp
 setUp
 	parser := ACLibraryParser new.

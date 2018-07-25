@@ -1,4 +1,4 @@
-setUp and tearDown
+tests
 testItDoesNotDisplayCategoriesWithoutUserStories
 
 	|categoryName listedCategoryNames listSize|

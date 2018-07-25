@@ -1,4 +1,3 @@
-as yet unclassified
+constants
 scenarioStringInList
-
 	^'ACCalculatorUserStory>>#mvus'

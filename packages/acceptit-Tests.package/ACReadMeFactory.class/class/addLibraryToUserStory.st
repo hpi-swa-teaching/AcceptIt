@@ -1,5 +1,5 @@
-as yet unclassified
-addLibraryToUs
+extending
+addLibraryToUserStory
 	userStory theMetaClass
 		compile: 'libraries
 

@@ -1,4 +1,4 @@
-as yet unclassified
+userstory constants
 userStoryContent2
 	
 	^ 'As a developer
