@@ -99,3 +99,7 @@ Notes:
 # Development and Progress
 
 For an update on the project state and the progress we made check out our [project documentation](https://github.com/hpi-swa-teaching/AcceptIt/wiki/Acceptit---project-development-from-April-2018-to-July-2018)
+
+# Further documentation
+
+For further project documentation and more details check out our [wiki](https://github.com/hpi-swa-teaching/AcceptIt/wiki)
