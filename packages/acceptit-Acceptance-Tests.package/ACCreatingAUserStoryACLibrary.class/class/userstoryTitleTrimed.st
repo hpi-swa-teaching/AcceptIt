@@ -1,0 +1,3 @@
+helpers
+userstoryTitleTrimed
+	^ ACCreatingAUserStoryACLibrary trimedTitle: ACCreatingAUserStoryACLibrary userstoryText

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"testResult" : "ms 6/22/2018 03:09",
+		"testResult:" : "ms 6/22/2018 03:10",
+		"validUserStory" : "ms 6/22/2018 02:58",
+		"validUserStory:" : "ms 6/22/2018 02:57" },
+	"instance" : {
+		"givenAUserStoryWithValidScenarioAndStepsArgs:" : "ms 6/22/2018 03:01",
+		"thenTheResultShouldBeGreenArgs:" : "ms 6/22/2018 04:05",
+		"whenTheTestIsExecutedArgs:" : "ms 6/22/2018 04:13" } }

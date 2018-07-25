@@ -1,0 +1,17 @@
+{
+	"category" : "acceptit-Acceptance-Tests",
+	"classinstvars" : [
+		"userstoryText",
+		"userstoryCategory",
+		"createdUserstory",
+		"scenarioText" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ACCreatingAUserStoryACLibrary",
+	"pools" : [
+		 ],
+	"super" : "ACLibrary",
+	"type" : "normal" }
