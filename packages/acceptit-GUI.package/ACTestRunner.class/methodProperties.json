@@ -2,7 +2,6 @@
 	"class" : {
 		"colors" : "topa 3/11/2011 13:47",
 		"listForParseTree:" : "topa 3/11/2011 17:40",
-		"open" : "db 7/22/2010 02:36",
 		"registerInToolsFlap" : "db 7/19/2010 16:59",
 		"registerInWorldMenu" : "db 7/20/2010 14:26",
 		"windowColorSpecification" : "db 7/19/2010 16:53" },
@@ -12,7 +11,7 @@
 		"browseToStepImplementation" : "JB 7/14/2018 14:14",
 		"buildClassesWith:" : "ez 5/30/2018 15:27",
 		"buildScenariosWith:" : "ez 5/30/2018 15:27",
-		"buildStepsWith:" : "ez 5/30/2018 15:28",
+		"buildStepsWith:" : "ez 7/25/2018 22:48",
 		"buildWith:" : "db 7/20/2010 02:38",
 		"classAt:put:" : "db 7/21/2010 17:39",
 		"classSelected:" : "db 7/21/2010 17:18",
