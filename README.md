@@ -30,10 +30,9 @@ Metacello new
 ```smalltalk
 ACUserStory createUserStory:
 'AC Calculator User Story
-In order to test my sophisticated calculator class
 As a developer
-I want to do some complicated calculations'
-
+I want to do basic calculus (add, subtract, multiply, devide)
+In order to determine the result of some formula'
 withCategory: 'acceptitTest-calculator'
 ```
 
@@ -57,7 +56,7 @@ libraries
 
 5. write the test scenario in your user story
 ```
-mvus
+minimalExampleUS
 
 Given A is true
 When I do nothing
