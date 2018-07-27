@@ -17,7 +17,7 @@ If you follow the guide there is no need for Step 3.
 ```smalltalk
 Metacello new
   baseline: 'AcceptIt';
-  repository: 'github://hpi-swa-teaching/AcceptIt/packages';
+  repository: 'github://hpi-swa-teaching/AcceptIt:develop/packages';
   get;
   load
 ```
